@@ -2,4 +2,4 @@
 
 URL: TBD
 
-A website for personal information and projects.
+A static website for personal information and projects.
