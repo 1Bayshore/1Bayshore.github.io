@@ -1,9 +1,19 @@
-.content {
+.page {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    margin: 0;
 }
 
 .topBar {
     background-color: orange;
     box-shadow: 2px;
+}
+
+.topBar a {
+    text-decoration: none;
+    color: black;
+}
+
+.content {
+    margin: 8px;
 }
