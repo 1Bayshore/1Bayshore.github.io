@@ -1,13 +1,15 @@
 .page {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
     margin: 0;
 }
 
 .topBar {
     background-color: orange;
     box-shadow: 2px;
-    /* possible position: fixed?*/
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0%;
 }
 
 .topBar a {
@@ -17,4 +19,8 @@
 
 .content {
     margin: 8px;
+}
+
+.title {
+    text-align: center;
 }
