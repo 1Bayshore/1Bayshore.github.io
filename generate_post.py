@@ -40,4 +40,16 @@ dir_path.mkdir(parents=True, exist_ok=True)
 with open(f"site/{current_time.year}/{current_time.month}/{current_time.day}/{output_filename}.html", "x") as f:
     f.write(final_html)
 
+link_txt = f'<p><b>{current_time.year}-{current_time.month}-{current_time.day}: </b><a href="/{current_time.year}/{current_time.month}/{current_time.day}/{output_filename}.html">{title}</a></p>\n'
+
+idx_page = ""
+
+with open("site/index.html") as f:
+    idx_page = f.read()
+
+idx_page = idx_page.replace("<!--Most recent post marker - do not remove-->", "<!--Most recent post marker - do not remove-->\n" + link_txt)
+
+with open("site/index.html", "w") as f:
+    f.write(idx_page)
+
 print("Post generated!")
