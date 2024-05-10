@@ -168,7 +168,7 @@ elif mode == "delete":
     with open("site" + url) as f:
         f_content = f.read()
         soup3 = BeautifulSoup(f_content, "html.parser")
-        prev_page = soup3.find("a", class_="prev").string
+        prev_page = soup3.find("a", class_="prev")['href']
         for i in soup3.find("div", class_="tags").find_all("a"):
             d_tags_list.append(i.text.strip())
     
