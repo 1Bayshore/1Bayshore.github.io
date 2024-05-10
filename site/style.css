@@ -29,3 +29,11 @@
     text-align: center;
     margin: 8px;
 }
+
+.next {
+    float: right;
+}
+
+.prev {
+    display: inline-block;
+}
