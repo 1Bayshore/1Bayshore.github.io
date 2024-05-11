@@ -76,12 +76,12 @@ if mode in ["new", "update"]:
     else:
         text = ""
         with open("site" + url) as f:
-            soupa = BeautifulSoup(f.read())
+            soupa = BeautifulSoup(f.read(), "html.parser")
             text = "\n".join([x.get_text() for x in soupa.find("div", class_="body").find_all("p")])
 
     if title == "":
         with open("site" + url) as f:
-            soupb = BeautifulSoup(f.read())
+            soupb = BeautifulSoup(f.read(), "html.parser")
             title = soupb.find("h1", class_="title").get_text().strip()
 
     template = ""
@@ -103,7 +103,7 @@ if mode in ["new", "update"]:
 
     if tags_str == "" and mode == "update":
         with open("site" + url) as f:
-            soupc = BeautifulSoup(f.read())
+            soupc = BeautifulSoup(f.read(), "html.parser")
             tags_list = [x.get_text() for x in soupc.find("div", class_="tags").find_all("a")]
 
     else:
