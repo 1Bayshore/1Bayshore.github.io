@@ -45,14 +45,13 @@ elif mode == "update":
     
     filename = url.rpartition("/")[2].replace(".html", ".txt")
 
-    print("Please enter the new title for the post:")
+    print("Please enter the new title for the post, or leave blank to keep the current one:")
     title = input("title: ")
-    if title == "":
-        title = "Untitled"
 
     print("Please input any tags for the post, separated by commas:")
     print("(Note: tags should be valid in urls)")
     print("(Note: replaces all existing tags)")
+    print("(Leave blank to keep existing tags)")
     tags_str = input("tags: ")
 
 elif mode == "delete":
@@ -62,10 +61,28 @@ elif mode == "delete":
         url = "/" + url
 
 #  Next, read the source file and the template
-if mode != "delete":
-    text = ""
-    with open("sources/" + filename) as f:
-        text = f.read()
+if mode in ["new", "update"]:
+    if mode == "new":
+        read_new_txt = True
+    else:
+        print("Please enter (y) to update text from the file or (n) to not update text")
+        read_new_txt = True if input("Update text: ") in ["y", "yes"] else False
+    
+    if read_new_txt:
+        text = ""
+        with open("sources/" + filename) as f:
+            text = f.read()
+    
+    else:
+        text = ""
+        with open("site" + url) as f:
+            soupa = BeautifulSoup(f.read())
+            text = "\n".join([x.get_text() for x in soupa.find("div", class_="body").find_all("p")])
+
+    if title == "":
+        with open("site" + url) as f:
+            soupb = BeautifulSoup(f.read())
+            title = soupb.find("h1", class_="title").get_text().strip()
 
     template = ""
     with open("template.html") as f:
@@ -84,7 +101,14 @@ if mode != "delete":
 
 # Separate the tags by commas to make a list, and turn that into <a> tags
 
-    tags_list = [x.strip() for x in tags_str.split(",")]
+    if tags_str == "" and mode == "update":
+        with open("site" + url) as f:
+            soupc = BeautifulSoup(f.read())
+            tags_list = [x.get_text() for x in soupc.find("div", class_="tags").find_all("a")]
+
+    else:
+        tags_list = [x.strip() for x in tags_str.split(",")]
+
     tags_html = ""
     for i in tags_list:
         tags_html += f'<a href="/tags/{i}.html">{i}</a>, '
@@ -225,7 +249,7 @@ if mode in ["update", "delete"]:
             
             soup6 = BeautifulSoup(tag_page_content, "html.parser")
             for j in soup6.find("div", class_="body").find_all("p"):
-                if i in j:
+                if i in j.text:
                     j.replace_with("")
 
             with open(f"site/tags/{i}.html", "w") as f:
@@ -253,7 +277,7 @@ if mode in ["new", "update"]:
                 tag_page_content = f.read()
             
             soup8 = BeautifulSoup(tag_page_content, "html.parser")
-            soup8.title = i
+            soup8.title.insert(0, i)
             soup8.find("h1", class_="title").insert(0, i)
             soup8.find("div", class_="body").insert(0, BeautifulSoup(link_txt, "html.parser"))
 
@@ -281,6 +305,7 @@ if mode == "new":
             pass # it's the first post, no previous one to be updated
 
 # If deleting the most recent post, reset the "next" pointer to the previous one
+# TODO: If deleting a post in the middle, reset the poniters on both sides of it
 
 if mode == "delete":
     prev_post_link = ""
@@ -296,7 +321,7 @@ if mode == "delete":
         with open("site" + prev_page) as f:
             prev_site = f.read()
         soup10 = BeautifulSoup(prev_site, "html.parser")
-        soup10.find("a", class_="next")['href'] = ""
+        del soup10.find("a", class_="next")['href']
 
         with open("site" + prev_page, "w") as f:
             f.write(soup10.prettify())
