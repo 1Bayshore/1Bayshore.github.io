@@ -85,7 +85,7 @@ if mode in ["new", "update"]:
             title = soupb.find("h1", class_="title").get_text().strip()
 
     template = ""
-    with open("template.html") as f:
+    with open("templates/template.html") as f:
         template = f.read()
 
 # Customise the template text with the text from the source
@@ -137,7 +137,7 @@ if mode == "new":
     prev_post_link = ""
 
     try:
-        with open("prev_post_link.txt") as f:
+        with open("templates/prev_post_link.txt") as f:
             prev_post_link = f.read()
     except FileNotFoundError:
         pass # just leave the string blank
@@ -202,7 +202,7 @@ elif mode == "delete":
 # Set the previous post file to this post
 
 if mode == "new":
-    with open("prev_post_link.txt", "w") as f:
+    with open("templates/prev_post_link.txt", "w") as f:
         f.write(f"/{current_time.year}/{current_time.month}/{current_time.day}/{output_filename}.html")
 
 # Add a link to the file on the homepage (index.html) if necessary
@@ -273,7 +273,7 @@ if mode in ["new", "update"]:
 
         except FileNotFoundError:
             tag_page_content = ""
-            with open("tag_template.html") as f:
+            with open("templates/tag_template.html") as f:
                 tag_page_content = f.read()
             
             soup8 = BeautifulSoup(tag_page_content, "html.parser")
@@ -311,7 +311,7 @@ if mode == "delete":
     prev_post_link = ""
 
     try:
-        with open("prev_post_link.txt") as f:
+        with open("templates/prev_post_link.txt") as f:
             prev_post_link = f.read()
     except FileNotFoundError:
         pass # just leave the string blank
@@ -326,7 +326,7 @@ if mode == "delete":
         with open("site" + prev_page, "w") as f:
             f.write(soup10.prettify())
 
-        with open("prev_post_link.txt", "w") as f:
+        with open("templates/prev_post_link.txt", "w") as f:
             f.write(prev_page)
 
 # Report success
