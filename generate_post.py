@@ -105,7 +105,7 @@ if mode in ["new", "update"]:
     if tags_str == "" and mode == "update":
         with open("site" + url) as f:
             soupc = BeautifulSoup(f.read(), "html.parser")
-            tags_list = [x.get_text() for x in soupc.find("div", class_="tags").find_all("a")]
+            tags_list = [x.get_text().strip() for x in soupc.find("div", class_="tags").find_all("a")]
 
     else:
         tags_list = [x.strip() for x in tags_str.split(",")]
@@ -261,6 +261,7 @@ if mode in ["update", "delete"]:
 
 if mode in ["new", "update"]:
     for i in tags_list:
+        i = i.strip()
         try:
             tag_page_content = ""
             with open(f"site/tags/{i}.html") as f:
