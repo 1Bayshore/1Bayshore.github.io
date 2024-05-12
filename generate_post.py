@@ -97,7 +97,8 @@ if mode in ["new", "update"]:
 
     for i in text.splitlines():
         t_line = i.strip()
-        soup.find("div", class_="body").append(BeautifulSoup("<p>" + t_line + "</p>", "html.parser"))
+        if t_line:
+            soup.find("div", class_="body").append(BeautifulSoup("<p>" + t_line + "</p>", "html.parser"))
 
 # Separate the tags by commas to make a list, and turn that into <a> tags
 
