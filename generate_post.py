@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import datetime
 from pathlib import Path
+import markdown
 
 # First, take input from the user
 
@@ -98,8 +99,7 @@ if mode in ["new", "update"]:
     for i in text.splitlines():
         t_line = i.strip()
         if t_line:
-            # Deal with image embedding
-            if t_line.startswith("[[") and t_line.endswith("]]"):
+            """if t_line.startswith("[[") and t_line.endswith("]]"):
                 img_path, sep, alt_text = t_line.partition("[[")[2].rpartition("]]")[0].partition(",")
                 try:
                     with open("sources/" + img_path, "rb") as f:
@@ -109,10 +109,24 @@ if mode in ["new", "update"]:
                     
                     t_line = f"<img src=\"{'/media/' + img_path.rpartition('/')[2]}\" alt=\"{alt_text}\">"
                 except FileNotFoundError:
-                    t_line = "(missing image: " + alt_text + ")"
+                    t_line = "(missing image: " + alt_text + ")"""
+            
+            line_html = BeautifulSoup(markdown.markdown(t_line), "html.parser")
 
-            line_soup = BeautifulSoup("<p>" + t_line + "</p>", "html.parser")
-            soup.find("div", class_="body").append(line_soup)
+            # Deal with image embedding
+            for i in line_html.find_all("img"):
+                img_path = i['src']
+                try:
+                    with open("sources/" + img_path, "rb") as f:
+                        img = f.read()
+                    with open("site/media/" + img_path.rpartition("/")[2], "wb") as f:
+                        f.write(img)
+                    
+                except FileNotFoundError:
+                    print("Warning: couldn't find image at sources/" + img_path)
+                i['src'] = "/media/" + img_path
+
+            soup.find("div", class_="body").append(line_html)
 
 # Separate the tags by commas to make a list, and turn that into <a> tags
 
@@ -123,13 +137,17 @@ if mode in ["new", "update"]:
 
     else:
         tags_list = [x.strip() for x in tags_str.split(",")]
+    
+    if tags_list == [""]:
+        tags_list = []
 
     tags_html = ""
     for i in tags_list:
         tags_html += f'<a href="/tags/{i}.html">{i}</a>, '
 
-    tags_html = tags_html[:-2] # remove the last comma and space
-    soup.find("div", class_="tags").append(BeautifulSoup(tags_html, "html.parser"))
+    if tags_html != "":
+        tags_html = tags_html[:-2] # remove the last comma and space
+        soup.find("div", class_="tags").append(BeautifulSoup(tags_html, "html.parser"))
 
 
 # Make sure the filename of the output is valid for a url (TODO: More checking here)
