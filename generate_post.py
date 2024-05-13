@@ -25,7 +25,7 @@ elif mode_txt in ["d", "delete"]:
 if mode == "new":
     print("Please enter the filename of the source text, as listed in the 'sources' directory:")
     filename = input("filename: ")
-    if not filename.endswith(".txt") or filename.endswith(".md"):
+    if not (filename.endswith(".txt") or filename.endswith(".md")):
         filename += ".txt"
     filename = filename.rpartition("/")[2]
 
@@ -99,17 +99,6 @@ if mode in ["new", "update"]:
     for i in text.splitlines():
         t_line = i.strip()
         if t_line:
-            """if t_line.startswith("[[") and t_line.endswith("]]"):
-                img_path, sep, alt_text = t_line.partition("[[")[2].rpartition("]]")[0].partition(",")
-                try:
-                    with open("sources/" + img_path, "rb") as f:
-                        img = f.read()
-                    with open("site/media/" + img_path.rpartition("/")[2], "wb") as f:
-                        f.write(img)
-                    
-                    t_line = f"<img src=\"{'/media/' + img_path.rpartition('/')[2]}\" alt=\"{alt_text}\">"
-                except FileNotFoundError:
-                    t_line = "(missing image: " + alt_text + ")"""
             
             line_html = BeautifulSoup(markdown.markdown(t_line), "html.parser")
 
