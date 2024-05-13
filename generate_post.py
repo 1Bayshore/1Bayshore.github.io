@@ -25,7 +25,7 @@ elif mode_txt in ["d", "delete"]:
 if mode == "new":
     print("Please enter the filename of the source text, as listed in the 'sources' directory:")
     filename = input("filename: ")
-    if not filename.endswith(".txt"):
+    if not filename.endswith(".txt") or filename.endswith(".md"):
         filename += ".txt"
     filename = filename.rpartition("/")[2]
 
