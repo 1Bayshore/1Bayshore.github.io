@@ -70,22 +70,22 @@ if mode in ["new", "update"]:
     
     if read_new_txt:
         text = ""
-        with open("sources/" + filename) as f:
+        with open("sources/" + filename, encoding='utf-8') as f:
             text = f.read()
     
     else:
         text = ""
-        with open("site" + url) as f:
+        with open("site" + url, encoding='utf-8') as f:
             soupa = BeautifulSoup(f.read(), "html.parser")
             text = "\n".join([x.get_text() for x in soupa.find("div", class_="body").find_all("p")])
 
     if title == "":
-        with open("site" + url) as f:
+        with open("site" + url, encoding='utf-8') as f:
             soupb = BeautifulSoup(f.read(), "html.parser")
             title = soupb.find("h1", class_="title").get_text().strip()
 
     template = ""
-    with open("templates/template.html") as f:
+    with open("templates/template.html", encoding='utf-8') as f:
         template = f.read()
 
 # Customise the template text with the text from the source
@@ -98,12 +98,26 @@ if mode in ["new", "update"]:
     for i in text.splitlines():
         t_line = i.strip()
         if t_line:
-            soup.find("div", class_="body").append(BeautifulSoup("<p>" + t_line + "</p>", "html.parser"))
+            # Deal with image embedding
+            if t_line.startswith("[[") and t_line.endswith("]]"):
+                img_path, sep, alt_text = t_line.partition("[[")[2].rpartition("]]")[0].partition(",")
+                try:
+                    with open("sources/" + img_path, "rb") as f:
+                        img = f.read()
+                    with open("site/media/" + img_path.rpartition("/")[2], "wb") as f:
+                        f.write(img)
+                    
+                    t_line = f"<img src=\"{'/media/' + img_path.rpartition('/')[2]}\" alt=\"{alt_text}\">"
+                except FileNotFoundError:
+                    t_line = "(missing image: " + alt_text + ")"
+
+            line_soup = BeautifulSoup("<p>" + t_line + "</p>", "html.parser")
+            soup.find("div", class_="body").append(line_soup)
 
 # Separate the tags by commas to make a list, and turn that into <a> tags
 
     if tags_str == "" and mode == "update":
-        with open("site" + url) as f:
+        with open("site" + url, encoding='utf-8') as f:
             soupc = BeautifulSoup(f.read(), "html.parser")
             tags_list = [x.get_text().strip() for x in soupc.find("div", class_="tags").find_all("a")]
 
@@ -138,7 +152,7 @@ if mode == "new":
     prev_post_link = ""
 
     try:
-        with open("templates/prev_post_link.txt") as f:
+        with open("templates/prev_post_link.txt", encoding='utf-8') as f:
             prev_post_link = f.read()
     except FileNotFoundError:
         pass # just leave the string blank
@@ -149,7 +163,7 @@ if mode == "new":
 elif mode == "update":
     next_link = ""
     prev_link = ""
-    with open("site" + url) as f:
+    with open("site" + url, encoding='utf-8') as f:
         n_text = f.read()
         soup2 = BeautifulSoup(n_text, "html.parser")
         try:
@@ -169,7 +183,7 @@ elif mode == "update":
 
 if mode == "update":
     d_tags_list = []
-    with open("site" + url) as f:
+    with open("site" + url, encoding='utf-8') as f:
         f_content = f.read()
         soup3 = BeautifulSoup(f_content, "html.parser")
         for i in soup3.find("div", class_="tags").find_all("a"):
@@ -178,19 +192,19 @@ if mode == "update":
 # If in "new" mode, write the file. Will raise an error if the file already exists
 
 if mode == "new":
-    with open(f"site/{current_time.year}/{current_time.month}/{current_time.day}/{output_filename}.html", "x") as f:
+    with open(f"site/{current_time.year}/{current_time.month}/{current_time.day}/{output_filename}.html", "x", encoding='utf-8') as f:
         f.write(soup.prettify())
 
 # If in "update" mode, replace the file, first confirming that it already exists
 elif mode == "update":
-    with open("site" + url, "w") as f:
+    with open("site" + url, "w", encoding='utf-8') as f:
         f.write(soup.prettify())
 
 # If in "delete" mode, delete the file, first saving the tags (to be deleted later) and the next link of the previous page
 elif mode == "delete":
     prev_page = ""
     d_tags_list = []
-    with open("site" + url) as f:
+    with open("site" + url, encoding='utf-8') as f:
         f_content = f.read()
         soup3 = BeautifulSoup(f_content, "html.parser")
         prev_page = soup3.find("a", class_="prev")['href']
@@ -203,7 +217,7 @@ elif mode == "delete":
 # Set the previous post file to this post
 
 if mode == "new":
-    with open("templates/prev_post_link.txt", "w") as f:
+    with open("templates/prev_post_link.txt", "w", encoding='utf-8') as f:
         f.write(f"/{current_time.year}/{current_time.month}/{current_time.day}/{output_filename}.html")
 
 # Add a link to the file on the homepage (index.html) if necessary
@@ -213,13 +227,13 @@ if mode == "new":
 
     idx_page = ""
 
-    with open("site/index.html") as f:
+    with open("site/index.html", encoding='utf-8') as f:
         idx_page = f.read()
 
     soup4 = BeautifulSoup(idx_page, "html.parser")
     soup4.find("div", class_="recentPosts").insert(0, BeautifulSoup(link_txt, "html.parser"))
 
-    with open("site/index.html", "w") as f:
+    with open("site/index.html", "w", encoding='utf-8') as f:
         f.write(soup4.prettify())
 
 if mode == "update":
@@ -229,13 +243,13 @@ if mode == "update":
 
 elif mode == "delete":
     idx_page = ""
-    with open("site/index.html") as f:
+    with open("site/index.html", encoding='utf-8') as f:
         idx_page = f.read()
     
     soup5 = BeautifulSoup(idx_page, "html.parser")
     soup5.find("div", class_="recentPosts").find("p").replace_with("")
 
-    with open("site/index.html", "w") as f:
+    with open("site/index.html", "w", encoding='utf-8') as f:
         f.write(soup5.prettify())
 
 # Create and/or update the tag pages as necessary
@@ -245,7 +259,7 @@ if mode in ["update", "delete"]:
         print(d_tags_list)
         try:
             tag_page_content = ""
-            with open(f"site/tags/{i}.html") as f:
+            with open(f"site/tags/{i}.html", encoding='utf-8') as f:
                 tag_page_content = f.read()
             
             soup6 = BeautifulSoup(tag_page_content, "html.parser")
@@ -253,7 +267,7 @@ if mode in ["update", "delete"]:
                 if i in j.text:
                     j.replace_with("")
 
-            with open(f"site/tags/{i}.html", "w") as f:
+            with open(f"site/tags/{i}.html", "w", encoding='utf-8') as f:
                 f.write(soup6.prettify())
 
         except FileNotFoundError:
@@ -264,18 +278,18 @@ if mode in ["new", "update"]:
         i = i.strip()
         try:
             tag_page_content = ""
-            with open(f"site/tags/{i}.html") as f:
+            with open(f"site/tags/{i}.html", encoding='utf-8') as f:
                 tag_page_content = f.read()
             
             soup7 = BeautifulSoup(tag_page_content, "html.parser")
             soup7.find("div", class_="body").insert(0, BeautifulSoup(link_txt, "html.parser"))
 
-            with open(f"site/tags/{i}.html", "w") as f:
+            with open(f"site/tags/{i}.html", "w", encoding='utf-8') as f:
                 f.write(soup7.prettify())
 
         except FileNotFoundError:
             tag_page_content = ""
-            with open("templates/tag_template.html") as f:
+            with open("templates/tag_template.html", encoding='utf-8') as f:
                 tag_page_content = f.read()
             
             soup8 = BeautifulSoup(tag_page_content, "html.parser")
@@ -283,7 +297,7 @@ if mode in ["new", "update"]:
             soup8.find("h1", class_="title").insert(0, i)
             soup8.find("div", class_="body").insert(0, BeautifulSoup(link_txt, "html.parser"))
 
-            with open(f"site/tags/{i}.html", "w") as f:
+            with open(f"site/tags/{i}.html", "w", encoding='utf-8') as f:
                 f.write(soup8.prettify())
 
 # Update the "next" link on the previous post to point to this one
@@ -293,14 +307,14 @@ if mode == "new":
 
     if prev_post_link:
         try:
-            with open("site" + prev_post_link) as f:
+            with open("site" + prev_post_link, encoding='utf-8') as f:
                 prev_post_html = f.read()
                         
             soup9 = BeautifulSoup(prev_post_html, "html.parser")
             tag = soup9.find("a", "next")
             tag['href'] = f"/{current_time.year}/{current_time.month}/{current_time.day}/{output_filename}.html"
 
-            with open("site" + prev_post_link, "w") as f:
+            with open("site" + prev_post_link, "w", encoding='utf-8') as f:
                 f.write(soup9.prettify())
 
         except FileNotFoundError or PermissionError:
@@ -313,22 +327,22 @@ if mode == "delete":
     prev_post_link = ""
 
     try:
-        with open("templates/prev_post_link.txt") as f:
+        with open("templates/prev_post_link.txt", encoding='utf-8') as f:
             prev_post_link = f.read()
     except FileNotFoundError:
         pass # just leave the string blank
 
     if prev_post_link == url:
         prev_site = ""
-        with open("site" + prev_page) as f:
+        with open("site" + prev_page, encoding='utf-8') as f:
             prev_site = f.read()
         soup10 = BeautifulSoup(prev_site, "html.parser")
         del soup10.find("a", class_="next")['href']
 
-        with open("site" + prev_page, "w") as f:
+        with open("site" + prev_page, "w", encoding='utf-8') as f:
             f.write(soup10.prettify())
 
-        with open("templates/prev_post_link.txt", "w") as f:
+        with open("templates/prev_post_link.txt", "w", encoding='utf-8') as f:
             f.write(prev_page)
 
 # Report success

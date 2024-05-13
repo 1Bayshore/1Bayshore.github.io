@@ -37,3 +37,9 @@
 .prev {
     display: inline-block;
 }
+
+img {
+    width: 100%;
+    min-width: 500px;
+    max-width: 1500px;
+}
