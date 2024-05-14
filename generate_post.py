@@ -271,11 +271,16 @@ if mode in ["update", "delete"]:
             
             soup6 = BeautifulSoup(tag_page_content, "html.parser")
             for j in soup6.find("div", class_="body").find_all("p"):
-                if i in j.text:
+                if j.find('a')['href'] == url:
                     j.replace_with("")
-
-            with open(f"site/tags/{i}.html", "w", encoding='utf-8') as f:
-                f.write(soup6.prettify())
+            
+            if soup6.find("div", class_="body").text == "":
+                # tag is empty, time to delete
+                del_page = Path(f"site/tags/{i}.html")
+                del_page.unlink()
+            else:
+                with open(f"site/tags/{i}.html", "w", encoding='utf-8') as f:
+                    f.write(soup6.prettify())
 
         except FileNotFoundError:
             pass
