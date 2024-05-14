@@ -274,7 +274,7 @@ if mode in ["update", "delete"]:
                 if j.find('a')['href'] == url:
                     j.replace_with("")
             
-            if soup6.find("div", class_="body").text == "":
+            if soup6.find("div", class_="body").text.strip() == "":
                 # tag is empty, time to delete
                 del_page = Path(f"site/tags/{i}.html")
                 del_page.unlink()
