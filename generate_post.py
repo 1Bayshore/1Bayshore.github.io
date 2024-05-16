@@ -71,8 +71,13 @@ if mode in ["new", "update"]:
     
     if read_new_txt:
         text = ""
-        with open("sources/" + filename, encoding='utf-8') as f:
-            text = f.read()
+        try:
+            with open("sources/" + filename, encoding='utf-8') as f:
+                text = f.read()
+        except FileNotFoundError:
+            # Maybe it's .md instead
+            with open("sources/" + filename.replace(".txt", ".md"), encoding='utf-8') as f:
+                text = f.read()
     
     else:
         text = ""
@@ -99,8 +104,10 @@ if mode in ["new", "update"]:
     for i in text.splitlines():
         t_line = i.strip()
         if t_line:
+
+            md_to_html = markdown.markdown(t_line)
             
-            line_html = BeautifulSoup(markdown.markdown(t_line), "html.parser")
+            line_html = BeautifulSoup(md_to_html, "html.parser")
 
             # Deal with image embedding
             for i in line_html.find_all("img"):
@@ -114,6 +121,24 @@ if mode in ["new", "update"]:
                 except FileNotFoundError:
                     print("Warning: couldn't find image at sources/" + img_path)
                 i['src'] = "/media/" + img_path
+
+            # Deal with iframe creation
+            for j in line_html.find_all("a"):
+                html_path = j['href']
+                potential_tidle = []
+                for k in j.previous_siblings:
+                    potential_tidle.append(k.text)
+                if potential_tidle[-1].endswith("~"):
+                    j.replace_with(BeautifulSoup(f'<div class="ibox"><iframe src="/interactives/{html_path}" title="{j.text}"></iframe></div>', "html.parser"))
+
+                try:
+                    with open("sources/" + html_path, "r", encoding="utf-8") as f:
+                        html_file = f.read()
+                    with open("site/interactives/" + html_path.rpartition("/")[2], "w", encoding="utf-8") as f:
+                        f.write(html_file)
+                    
+                except FileNotFoundError:
+                    print("Warning: couldn't find interactive at sources/" + html_path)
 
             soup.find("div", class_="body").append(line_html)
 

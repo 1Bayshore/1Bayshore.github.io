@@ -43,3 +43,17 @@ img {
     min-width: 500px;
     max-width: 1500px;
 }
+
+.invisible {
+    display: none;
+}
+
+.ibox {
+    height: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}

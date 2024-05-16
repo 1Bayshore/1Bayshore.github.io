@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <meta charset="utf-8"/>
+        <title>
+         Tiðloten Interactive Quiz
+        </title>
+        <link href="/style.css" rel="stylesheet"/>
+    </head>
+    <body class="page">
+        <form id="pageForm">
+            <div class="question" id="question1">
+                <b>Are you fond of dragons?</b><br>
+                <input type="radio" name="question1" value="2"><label>Yes, I work with them every day</label><br>
+                <input type="radio" name="question1" value="3"><label>Yikes, no!</label><br>
+                <input type="radio" name="question1" value="4"><label>I'm a fan... from a distance</label><br>
+                <input type="radio" name="question1" value="5"><label>I'M A DRAGONSLAYER</label><br>
+            </div>
+            <div class="question invisible" id="question2">
+                <b>Would you sneak into Dyaša to rescue dragons?</b><br>
+                <input type="radio" name="question2" value="6"><label>Yes, it's all in a day's work</label><br>
+                <input type="radio" name="question2" value="7"><label>No, that's somebody else's problem</label><br>
+            </div>
+            <div class="question invisible" id="question3">
+                <b>From the tallest tower in your city, you can see...</b><br>
+                <input type="radio" name="question3" value="8"><label>Freedom! (I escaped to there.)</label><br>
+                <input type="radio" name="question3" value="9"><label>A marshy wasteland</label><br>
+                <input type="radio" name="question3" value="10"><label>What tall tower?</label><br>
+            </div>
+            <div class="question invisible" id="question4">
+                <b>Are horses for riding on or pulling carts?</b><br>
+                <input type="radio" name="question4" value="11"><label>Riding on</label><br>
+                <input type="radio" name="question4" value="12"><label>Pulling carts. People can walk</label><br>
+                <input type="radio" name="question4" value="13"><label>Let me show you this new steam-powered contraption...</label><br>
+            </div>
+            <div class="question invisible" id="question5">
+                <b>How do you act around plusambens (lightning skinks)?</b><br>
+                <input type="radio" name="question5" value="14"><label>Slowly back away</label><br>
+                <input type="radio" name="question5" value="15"><label>Run like crazy!</label><br>
+                <input type="radio" name="question5" value="16"><label>Step on them and get yourself zapped</label><br>
+            </div>
+            <div class="question invisible" id="question6">
+                <b>So you're from Onþod. Dangerous place, isn't it?</b><br>
+                <input type="radio" name="question6" value="0"><label>You get used to it.</label><br>
+            </div>
+            <div class="question invisible" id="question7">
+                <b>So you like dragons, but you don't save them?</b><br>
+                <input type="radio" name="question7" value="17"><label>What are you talking about? I'm good friends with one</label><br>
+                <input type="radio" name="question7" value="18"><label>Bureaucrats don't have much time for dragons, I'm afraid.</label><br>
+            </div>
+            <div class="question invisible" id="question8">
+                <b>I can't believe you escaped from Dyaša. Tell me more.</b><br>
+                <input type="radio" name="question8" value="0"><label>Absolutely not.</label><br>
+            </div>
+            <div class="question invisible" id="question9">
+                <b>Surely you can't be from Zanhhuiltya? You're not nearly that dull.</b><br>
+                <input type="radio" name="question9" value="0"><label>I am, in fact, from Zanhhuiltya.</label><br>
+            </div>
+            <div class="question invisible" id="question10">
+                <b>I've got it! You must be from Salte! Is the food there bad?</b><br>
+                <input type="radio" name="question10" value="0"><label>Don't ask about the food. You don't want to know.</label><br>
+            </div>
+            <div class="question invisible" id="question11">
+                <b>What is the true name of the magic string of flight?</b><br>
+                <input type="radio" name="question11" value="19"><label>Quərfi silk</label><br>
+                <input type="radio" name="question11" value="13"><label>Admeju</label><br>
+                <input type="radio" name="question11" value="16"><label>Silly string</label><br>
+                <input type="radio" name="question11" value="20"><label>That's top secret!</label><br>
+            </div>
+            <div class="question invisible" id="question12">
+                <b>How do you feel about pirates on the high seas?</b><br>
+                <input type="radio" name="question12" value="21"><label>They're the scourge of my existance!</label><br>
+                <input type="radio" name="question12" value="22"><label>I mean, there are upsides and downsides...</label><br>
+                <input type="radio" name="question12" value="23"><label>I live inland</label><br>
+            </div>
+            <div class="question invisible" id="question13">
+                <b>And I assume you invented this steam-powered contraption?</b><br>
+                <input type="radio" name="question13" value="24"><label>Of course! It's among my finest inventions.</label><br>
+                <input type="radio" name="question13" value="25"><label>It was built on my back-breaking labour - and I wans't paid enough.</label><br>
+                <input type="radio" name="question13" value="26"><label>No, but it's had its benifits</label><br>
+                <input type="radio" name="question13" value="27"><label>No, and it's been bad for the world</label><br>
+            </div>
+            <div class="question invisible" id="question14">
+                <b>Do you worship your inborn element?</b><br>
+                <input type="radio" name="question14" value="28"><label>Of course! Everyone does that!</label><br>
+                <input type="radio" name="question14" value="29"><label>Worship? In what world?</label><br>
+            </div>
+            <div class="question invisible" id="question15">
+                <b>You must be one of the dragonslayers of Valdya - brave in the face of danger but absolutely terrified of plusambens.</b><br>
+                <input type="radio" name="question15" value="0"><label>Give me a break! I deal with far more important things.</label>
+            </div>
+            <div class="question invisible" id="question16">
+                <b>Oh no. You must be a Sudasichan. Do you realize there's a dragon in your basement?</b><br>
+                <input type="radio" name="question16" value="0"><label>Of course there isn't! I would have notice... (roaring in background)</label><br>
+            </div>
+            <div class="question invisible" id="question17">
+                <b>You must be from Nālesdawi. How is life in the City of Dragons?</b><br>
+                <input type="radio" name="question17" value="0"><label>We live in harmony with dragons and the natural world.</label><br>
+            </div>
+            <div class="question invisible" id="question18">
+                <b>So you're doing multiple thousand-year old clerical work in Dese Voldo? That must get old quickly.</b><br>
+                <input type="radio" name="question18" value="0"><label>No really, it's quite interesting... (yawn)</label><br>
+            </div>
+            <div class="question invisible" id="question19">
+                <b>Do you put jam on meat?</b><br>
+                <input type="radio" name="question19" value="30"><label>Of course, as any sensible person would do!</label><br>
+                <input type="radio" name="question19" value="31"><label>Eww, of course not!</label><br>
+            </div>
+            <div class="question invisible" id="question20">
+                <b>If you're Quərfi, how do I know that you're not going to float away?</b><br>
+                <input type="radio" name="question20" value="0"><label>You don't... (eerily floats off into sky)</label><br>
+            </div>
+            <div class="question invisible" id="question21">
+                <b>Ah, we've got someone from Zemhhuno. Do you miss the old empire, and the prestige that came with being an Imperial Port?</b><br>
+                <input type="radio" name="question21" value="0"><label>Maybe, with all of the corruption and piracy from the Dyanlo Confederation.</label><br>
+            </div>
+            <div class="question invisible" id="question22">
+                <b>Surely only someone from Atšeri would debate whether piracy was a good idea. Hey, where's my purse?</b><br>
+                <input type="radio" name="question22" value="0"><label>It wasn't me, I can assure you.</label><br>
+            </div>
+            <div class="question invisible" id="question23">
+                <b>Dilhonšels are...</b><br>
+                <input type="radio" name="question23" value="32"><label>A danger to crops</label><br>
+                <input type="radio" name="question23" value="33"><label>A military-grade disaster</label><br>
+            </div>
+            <div class="question invisible" id="question24">
+                <b>Does an orange shawl go with short trousers?</b><br>
+                <input type="radio" name="question24" value="34"><label>We wear much more sensible clothing</label><br>
+                <input type="radio" name="question24" value="35"><label>As long as you're wearing one gold and one silver earing</label><br>
+            </div>
+            <div class="question invisible" id="question25">
+                <b>When a storm comes, what do you do?</b><br>
+                <input type="radio" name="question25" value="36"><label>Descend into the mines</label><br>
+                <input type="radio" name="question25" value="37"><label>Keep working</label><br>
+                <input type="radio" name="question25" value="38"><label>Gather all of the animals in the barn</label><br>
+            </div>
+            <div class="question invisible" id="question26">
+                <b>When a cat crosses your path, you say...</b><br>
+                <input type="radio" name="question26" value="39"><label>"Oh dear, bad luck."</label><br>
+                <input type="radio" name="question26" value="40"><label>"Yes, good luck today!"</label><br>
+                <input type="radio" name="question26" value="41"><label>"Hey, isn't that the Lord Mayor?"</label><br>
+            </div>
+            <div class="question invisible" id="question27">
+                <b>When you curse, you curse...</b><br>
+                <input type="radio" name="question27" value="42"><label>The Wiþi Empire</label><br>
+                <input type="radio" name="question27" value="43"><label>All the tourists</label><br>
+                <input type="radio" name="question27" value="44"><label>How few people visit our island anymore</label><br>
+                <input type="radio" name="question27" value="45"><label>Like a sailor. (Because I am one.)</label><br>
+            </div>
+            <div class="question invisible" id="question28">
+                <b>The best way to support your god is...</b><br>
+                <input type="radio" name="question28" value="46"><label>Spend hours in prayer</label><br>
+                <input type="radio" name="question28" value="47"><label>Launch raids on neighbouring villages</label><br>
+            </div>
+            <div class="question invisible" id="question29">
+                <b>Your language sounds like...</b><br>
+                <input type="radio" name="question29" value="48"><label>Dida doda dida doda</label><br>
+                <input type="radio" name="question29" value="49"><label>Uh...</label><br>
+            </div>
+            <div class="question invisible" id="question30">
+                <b>A lowland Wàmèrì, I see. Enjoying your time wading in the bogs?</b><br>
+                <input type="radio" name="question30" value="0"><label>Watch out for those mosquitoes!</label><br>
+            </div>
+            <div class="question invisible" id="question31">
+                <b>A horse-riding uplands Wàmèrì. Your riding skills must be excellent.</b><br>
+                <input type="radio" name="question31" value="0"><label>Yes, I personally defended the passes during the war. Long live Wàmèrà!</label><br>
+            </div>
+            <div class="question invisible" id="question32">
+                <b>A farmer in Senhyamdil, I see. Aren't you worried about an invasion?</b><br>
+                <input type="radio" name="question32" value="0"><label>I'll keep working on my farm till the day I die.</label><br>
+            </div>
+            <div class="question invisible" id="question33">
+                <b>Oh no. Are you invading someone or being invaded?</b><br>
+                <input type="radio" name="question33" value="50"><label>We're being invaded.</label><br>
+                <input type="radio" name="question33" value="51"><label>It's not called "invading" if it's rightfully ours.</label><br>
+            </div>
+            <div class="question invisible" id="question34">
+                <b>You're so self-important, you must be Adglisng.</b><br>
+                <input type="radio" name="question34" value="0"><label>We're not just self-important, we are the most important!</label><br>
+            </div>
+            <div class="question invisible" id="question35">
+                <b>Ah, typical Admangátle. You do know that's not appropriate interview attire, do you?</b><br>
+                <input type="radio" name="question35" value="0"><label>It's not? Should I swap it out for my flower skirt?</label><br>
+            </div>
+            <div class="question invisible" id="question36">
+                <b>So Adwimþac of you. Have you reached anything magical in the depths.</b><br>
+                <input type="radio" name="question36" value="0"><label>Only coal, gems, and sometimes gold, I'm afraid.</label><br>
+            </div>
+            <div class="question invisible" id="question37">
+                <b>You never do stop working in Magþe, do you?</b><br>
+                <input type="radio" name="question37" value="0"><label>Only to go on strike for better wages.</label><br>
+            </div>
+            <div class="question invisible" id="question38">
+                <b>You're from Alsurea, I gather. Have you ever considered moving to Glisng?</b><br>
+                <input type="radio" name="question38" value="0"><label>How did you guess?</label><br>
+            </div>
+            <div class="question invisible" id="question39">
+                <b>If you could own one vehicle for fun, it would be...</b><br>
+                <input type="radio" name="question39" value="52"><label>A sailboat</label><br>
+                <input type="radio" name="question39" value="53"><label>A sleigh</label><br>
+            </div>
+            <div class="question invisible" id="question40">
+                <b>Your most famous lord...</b><br>
+                <input type="radio" name="question40" value="54"><label>Invaded Sudasichas, but failed.</label><br>
+                <input type="radio" name="question40" value="55"><label>Was prime minister under the same King Emtlanðo who tried to remove elvlaida (Wednesday) from the calendar</label><br>
+            </div>
+            <div class="question invisible" id="question41">
+                <b>Ah, the famous "cat incident" of Lèrtsfort. I hope you take good care of the little thing.</b><br>
+                <input type="radio" name="question41" value="0"><label>1w\s2sxz3ffnb5ugn8m+! Sorry, the Lord Mayor just walked over my keyboard.</label><br>
+            </div>
+            <div class="question invisible" id="question42">
+                <b>Still bitter in Ongrèstilsa, I see. Do you want some tea?</b><br>
+                <input type="radio" name="question42" value="0"><label>Just give us our empire back, okay?</label><br>
+            </div>
+            <div class="question invisible" id="question43">
+                <b>Only Advoanter complain so much about the tourists. You do have nice beaches though, right?</b><br>
+                <input type="radio" name="question43" value="0"><label>I miss the days before they were discovered.</label><br>
+            </div>
+            <div class="question invisible" id="question44">
+                <b>Something is fishy about Ataglin, I swear.</b><br>
+                <input type="radio" name="question44" value="0"><label>It might have something to do with all the fish.</label><br>
+            </div>
+            <div class="question invisible" id="question45">
+                <b>Adpaltlon, I'm gonna guess. Any relatives overseas?</b><br>
+                <input type="radio" name="question45" value="0"><label>!#"%$! The Wiþi Empire abandoned them.</label><br>
+            </div>
+            <div class="question invisible" id="question46">
+                <b>Only Dokagrolins pray as much as that. Come, won't you do something fun?</b><br>
+                <input type="radio" name="question46" value="0"><label>I'm afraid I have a secret funeral to attend.</label><br>
+            </div>
+            <div class="question invisible" id="question47">
+                <b>A Šalva villager would be the kind to launch raids against their own people, wouldn't they?</b><br>
+                <input type="radio" name="question47" value="0"><label>They're not the same as us! They're a different element.</label><br>
+            </div>
+            <div class="question invisible" id="question48">
+                <b>You must be as tough as nails if you're from the Northern Lands. How do you survive up there?</b><br>
+                <input type="radio" name="question48" value="0"><label>It takes a lot of skill, and a lot of stew.</label><br>
+            </div>
+            <div class="question invisible" id="question49">
+                <b>Ah, Atlentish people really live the lifee of the jungle. Do you have a machete on you?</b><br>
+                <input type="radio" name="question49" value="0"><label>Let me cut down this branch first, I can't see you well.</label><br>
+            </div>
+            <div class="question invisible" id="question50">
+                <b>Oh no, you're from Halku. I'm so sorry.</b><br>
+                <input type="radio" name="question50" value="0"><label>Stop with the words, make some people care about the war!</label><br>
+            </div>
+            <div class="question invisible" id="question51">
+                <b>You're a brutal invader from Lagon and deserve to be stopped.</b><br>
+                <input type="radio" name="question51" value="0"><label>No I'm not! The rulers are the invaders! I'm fighting for my life!</label><br>
+            </div>
+            <div class="question invisible" id="question52">
+                <b>A Trèsichan or an Agrasichan. Are you a smuggler of grain?</b><br>
+                <input type="radio" name="question52" value="0"><label>How dare you accuse me of that?</label><br>
+            </div>
+            <div class="question invisible" id="question53">
+                <b>A Lèrtsbonian. How do you feel about the annexation?</b><br>
+                <input type="radio" name="question53" value="0"><label>Better than being part of Ongrèsent, I guess.</label><br>
+            </div>
+            <div class="question invisible" id="question54">
+                <b>Adnorbuj, I see. Good luck to your company taking over the Northern Lands.</b><br>
+                <input type="radio" name="question54" value="0"><label>Thanks! Given the resistance we've encountered, we'll need it.</label>
+            </div>
+            <div class="question invisible" id="question55">
+                <b>In Vlojtum, you must really benifit from being a transportation junction.</b><br>
+                <input type="radio" name="question55" value="0"><label>We really do.</label><br>
+            </div>
+            <div class="question invisible" id="question0">
+                <b>Thanks for taking the quiz! If you want to try again you can click below to start over. <i>Note: your answers will not be saved.</i></b><br>
+                <button type="submit">Start over</button>
+            </div>
+        </form>
+        <script type="text/javascript">
+            function updateVisibility(e) {
+                all_questions = document.getElementsByClassName("question");
+                for (var i = 0; i < all_questions.length; i++) {
+                    all_questions[i].classList.add("invisible");
+                }
+                var current_question = "question1";
+                while (current_question) {
+                    document.getElementById(current_question).classList.remove("invisible");
+                    var next_question = "question" + document.querySelector('input[name="' + current_question + '"]:checked').value;
+                    if (document.getElementById(next_question) == null) {
+                        console.log(next_question);
+                        next_question = "";
+                        break;
+                    }
+                    current_question = next_question;
+                }
+            }
+
+            inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                inputs[i].addEventListener('click', updateVisibility)
+            }
+        </script>
+    </body>
+</html>
