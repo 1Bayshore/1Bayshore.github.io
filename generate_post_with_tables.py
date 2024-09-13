@@ -101,49 +101,46 @@ if mode in ["new", "update"]:
     soup.title.insert(0, title)
     soup.find("h1", class_="title").append(title)
 
-    for i in text.splitlines():
-        t_line = i.strip()
-        if t_line:
+    
+    md_to_html = markdown.markdown(text, extensions=['tables'])
+    
+    text_html = BeautifulSoup(md_to_html, "html.parser")
 
-            md_to_html = markdown.markdown(t_line)
+    # Deal with image embedding
+    for i in text_html.find_all("img"):
+        img_path = i['src']
+        try:
+            with open("sources/" + img_path, "rb") as f:
+                img = f.read()
+            with open("site/media/" + img_path.rpartition("/")[2], "wb") as f:
+                f.write(img)
             
-            line_html = BeautifulSoup(md_to_html, "html.parser")
+        except FileNotFoundError:
+            print("Warning: couldn't find image at sources/" + img_path)
+        i['src'] = "/media/" + img_path
 
-            # Deal with image embedding
-            for i in line_html.find_all("img"):
-                img_path = i['src']
-                try:
-                    with open("sources/" + img_path, "rb") as f:
-                        img = f.read()
-                    with open("site/media/" + img_path.rpartition("/")[2], "wb") as f:
-                        f.write(img)
-                    
-                except FileNotFoundError:
-                    print("Warning: couldn't find image at sources/" + img_path)
-                i['src'] = "/media/" + img_path
+    # Deal with iframe creation
+    for j in text_html.find_all("a"):
+        html_path = j['href']
+        potential_tidle = []
+        for k in j.previous_siblings:
+            potential_tidle.append(k.text)
+        try:
+            if potential_tidle[-1].endswith("~"):
+                j.replace_with(BeautifulSoup(f'<div class="ibox"><iframe src="/interactives/{html_path}" title="{j.text}"></iframe></div>', "html.parser"))
 
-            # Deal with iframe creation
-            for j in line_html.find_all("a"):
-                html_path = j['href']
-                potential_tidle = []
-                for k in j.previous_siblings:
-                    potential_tidle.append(k.text)
-                try:
-                    if potential_tidle[-1].endswith("~"):
-                        j.replace_with(BeautifulSoup(f'<div class="ibox"><iframe src="/interactives/{html_path}" title="{j.text}"></iframe></div>', "html.parser"))
+            try:
+                with open("sources/" + html_path, "r", encoding="utf-8") as f:
+                    html_file = f.read()
+                with open("site/interactives/" + html_path.rpartition("/")[2], "w", encoding="utf-8") as f:
+                    f.write(html_file)
+                
+            except FileNotFoundError:
+                print("Warning: couldn't find interactive at sources/" + html_path)
+        except IndexError:
+            print("Found ordinary link, not iframe")
 
-                    try:
-                        with open("sources/" + html_path, "r", encoding="utf-8") as f:
-                            html_file = f.read()
-                        with open("site/interactives/" + html_path.rpartition("/")[2], "w", encoding="utf-8") as f:
-                            f.write(html_file)
-                        
-                    except FileNotFoundError:
-                        print("Warning: couldn't find interactive at sources/" + html_path)
-                except IndexError:
-                    print("Found ordinary link, not iframe")
-
-            soup.find("div", class_="body").append(line_html)
+    soup.find("div", class_="body").append(text_html)
 
 # Separate the tags by commas to make a list, and turn that into <a> tags
 
