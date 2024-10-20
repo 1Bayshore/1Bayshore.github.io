@@ -171,11 +171,17 @@ if mode in ["new", "update"]:
     output_filename = output_filename.replace("_", "-")
 
 # Get the current date, to use as an index for the post
-if mode == "new":
-    current_time = datetime.date.today()
+
+    if mode == "new":
+        current_time = datetime.date.today()
+    else:
+        current_time = datetime.datetime.strptime(url.rpartition("/")[0], "/%Y/%m/%d")
+
+    soup.find("div", class_="date").append(f"{current_time.day} {current_time.strftime('%B')} {current_time.year}")
 
 # Create the directory in which the file will go
 
+if mode == "new":
     dir_path = Path(f"site/{current_time.year}/{current_time.month}/{current_time.day}")
     dir_path.mkdir(parents=True, exist_ok=True)
 
