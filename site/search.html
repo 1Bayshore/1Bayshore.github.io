@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta charset="utf-8">
+        <title>Search - 1Bayshore</title>
+        <link rel="stylesheet" href="/style.css">
+    </head>
+    <body class="page">
+        <div class="topBar">
+            <a href="/index.html">Home</a>
+            <a href="/about.html">About Me</a>
+            <a href="/search.html">Search</a>
+        </div>
+        <div class="content">
+            <h1 class="title">Search</h1>
+            <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
+            <script type="text/javascript">
+                let documents = [];
+                let miniSearch = new MiniSearch({
+                    fields: ["title", "content"],
+                    storeFields: ["title", "link"]
+                });
+
+                async function loadData() {
+                    const parser = new DOMParser();
+                    let d = await fetch("index.html");
+                    let d_text = await d.text();
+                    let d_body = parser.parseFromString(d_text, "text/html");
+                    let d_links = d_body.getElementsByClassName("recentPosts")[0].getElementsByTagName("a");
+                    
+                    id_num = 0;
+
+                    while (d_links) {
+                        let f = await fetch(d_links.item(id_num));
+                        let f_text = await f.text();
+                        let f_body = parser.parseFromString(f_text, "text/html");
+                        let f_title = f_body.getElementsByClassName("title")[0].textContent;
+                        let f_content = f_body.getElementsByClassName("body")[0].textContent;
+                        let f_link = d_links.item(id_num).href;
+
+                        documents.push({
+                            id: id_num,
+                            title: f_title,
+                            content: f_content,
+                            link: f_link
+                            // TODO: add a date field
+                        });
+                        id_num++;
+                        if (id_num >= d_links.length) {
+                            break;
+                        }
+                    }
+                    miniSearch.addAll(documents);
+                }
+                
+                loadData();
+
+                function searchFunction() {
+                    let searchFor = document.getElementById("searchBar").value;
+                    let results = miniSearch.search(searchFor);
+                    if (results.length) {
+                        document.getElementsByClassName("results")[0].innerHTML = "";
+                        for (let i = 0; i < results.length; i++) {
+                            let result_html = document.createElement("div");
+                            let result_a = document.createElement("a");
+                            result_html.appendChild(result_a);
+
+                            result_a.href = results[i]["link"];
+                            result_a.innerHTML = results[i]["title"];
+
+                            document.getElementsByClassName("results")[0].appendChild(result_html);
+                        }
+                    } else {
+                        document.getElementsByClassName("results")[0].innerHTML = "No results";
+                    }
+                    return false;
+                }
+            </script>
+            <form onsubmit="return searchFunction();">
+                <label>Search for:</label>
+                <input type="text" id="searchBar">
+                <button>Search</button>
+            </form>
+            <div class="results"></div>
+            <div class="acknowledgement">Powered by <a href="https://github.com/lucaong/minisearch">MiniSearch</a></div>
+        </div>
+        <div class="footer">
+            Copyright © 2024
+        </div>
+    </body>
+</html>
