@@ -1,4 +1,4 @@
-**Fentlama Acleð** is an Adcovtle politician and former railway worker who served as the Member of Parliament from Mangátle awiþ from 2033 to her resignation in 2034. She is best known for refusing to serve dinner to the elder Lord Espa Adnorbuj on his return trip from his Ma dabevlat laþodgo vla coþle (lit. I did everything right) speech.
+**Fentlama Acleð** is an Adcovtle politician and former railway worker who served as the Member of Parliament from [Mangátle vewiþ](/2024/10/19/mangátle-vewiþ.html) from 2033 to her resignation in 2034. She is best known for refusing to serve dinner to the elder Lord Espa Adnorbuj on his return trip from his Ma dabevlat laþodgo vla coþle (lit. I did everything right) speech.
 ## Early Life
 Fentlama Acleð was born in 2007 in Glisng. Both of her parents worked for Tevaðon Adcovtle (Adcovlte Railways), her mother as a guard and her father as an engineer. She has one older brother, who served in Lapeþmagar Admangátle (lit. Non-army of Mangátle). She has described her childhood as "hard, but loving". She moved around a lot in her childhood, living everywhere from Voanter to Consada.
 
@@ -14,7 +14,7 @@ Following the publication of the interview, Fentlama was invited to give a speec
 
 After her speech, Fentlama was hired by Lañome ad tesececlohé ad Mangátle to do food service. She continued to work in food service until her election as a Member of Parliament.
 ## Political Career
-In the 2033 Lapazadapalavi election, Fentlama stood for election in the Mangátle awiþ riding as an independent. She was widely considered to be unelectable due to her stance against Lord Espa Adnorbuj. However, after her opponents made a series of perceived blunders, she was elected with 44% of the vote. She assumed office on 12 gerongi 2033.
+In the 2033 Lapazadapalavi election, Fentlama stood for election in the [Mangátle vewiþ](/2024/10/19/mangátle-vewiþ.html) riding as an independent. She was widely considered to be unelectable due to her stance against Lord Espa Adnorbuj. However, after her opponents made a series of perceived blunders, she was elected with 44% of the vote. She assumed office on 12 gerongi 2033.
 
 Fentlama was considered one of the most controversial members of parliament. In her first speech to Lapazadapalavi, she criticised military spending. She voted against the vast majority of bills in the session.
 ## "Traitor" Comments and Resignation
