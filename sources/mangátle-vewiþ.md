@@ -1,4 +1,4 @@
-**Mangátle vewiþ** (lit. North Mangálte) was a riding in Mangátle. It was created in 1999 under the Lajatlap ad lapazadapalavi an 1999 (lit. Expansion of Parliament Act 1999). It was merged into other ridings in Latesblom ini 2036 (lit. New Ridings Act 2036).
+**Mangátle vewiþ** (lit. North Mangálte) was a riding in Mangátle. It was created in 1999 under the Lajatlap ad lapazadapalavi an 1999 (lit. Expansion of Parliament Act 1999). It was merged into other ridings in [Latesblom ini 2036](/2024/10/26/latesblom-ini-2036.html) (lit. New Ridings Act 2036).
 
 ## List of Members of Parliament representing Mangátle vewiþ
 
