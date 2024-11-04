@@ -21,7 +21,7 @@ The act removed the following seats:
 
 ## Controversies
 ### Number of seats in Grèsent
-Despite advocacy by Èxvich Grèsent, the number of seats in Upper Grèsent only increased from 5 to 6, while the number of seats in Lower Grèsent remainder at 2. This left many in Grèsent discouraged, and was considered to be a contributing factor to the 2037 Xíte Rebellion.
+Despite advocacy by Èxvich Grèsent, the number of seats in Upper Grèsent only increased from 5 to 6, while the number of seats in Lower Grèsent remainder at 2. This left many in Grèsent discouraged, and was considered to be a contributing factor to the 2037 [Xíte Rebellion](/2024/11/4/xíte-rebellion.html).
 
 ### Removal of controversial rival's seats
 The act removed a number of seats that were represented by controversial figures. This included [Mangátle vewiþ](/2024/10/19/mangátle-vewiþ.html), which had until recently been represented by [Fentlama Acleð](/2024/9/9/fentlama-acleð.html), and Þoriv e lavolotum, which was represented by Ðlendo Advol. Covtle Ini maintained that this was a coincidence, and they were not targeting anyone in particular. However, leaked documents later revealed that this strategy was intentional.
