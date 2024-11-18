@@ -16,4 +16,7 @@ During this period, Mangátle and the surrouding areas received newcomers from t
 ### Founding of the University of Mangátle and the Years of Peace (1117-1274)
 In 1117, La njomê asd la tsênat asd la tordosc dosc (modern adcovtle: Lañome ad laþenat ad latordo do) (lit. The Royal Group for a second tower of knowledge) settled on Mangátle as the site for the second Tower of Knowledge, or university. Construction began the same year. The new University of Mangátle began accepting students for the first time in 1125.
 
-The new university transformed Mangátle from being primarily a market town to a centre of magic and trade. 
+The new university transformed Mangátle from being primarily a market town to a centre of magic and learning. Some of the items invented in Mangátle in this period were the Necklace of Invisibility, the Floating Cart, and the Shadow Light. Due to high inequality, these items were mostly available to the upper classes.
+
+### Quərfi period (1274-1407)
+In 1274 the Quərfi, who controlled Wàmèrà at the time, launched an attack on Mangátle and the surrounding region. This first attack was repelled, but after several more attacks, another attack in 1298 succeeded in taking the city.
