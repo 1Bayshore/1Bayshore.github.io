@@ -3,7 +3,7 @@
 The city is the southermost city in Covtle, at the foothills of the Cientla mountains. It is known for its vibrant culture, including arts and fashion. Latordo ad Mangátle (lit. The University of Mangátle) is the second-oldest in Covtle, after Latordo ad Glisng (lit. The University of Glisng).
 
 ## History
-### Early history (696-704)
+### Early history (596-704)
 Mangátle was founded in 596 by the Mangátle people. Little is known about the early settlement as written records rare. Archaeological evidence suggest that early Mangátle was a mid-size town with a wall around it.
 
 Mangátle grew in importance during the 600s, during which it served as the capital of the Kingdom of Mangátle. However, in 704 Queen Tleað of Glisng led a conquest of the Kingdom of Mangátle, which culminated in the sacking of Mangátle. The city was almost entirely destroyed.
@@ -19,4 +19,10 @@ In 1117, La njomê asd la tsênat asd la tordosc dosc (modern adcovtle: Lañome 
 The new university transformed Mangátle from being primarily a market town to a centre of magic and learning. Some of the items invented in Mangátle in this period were the Necklace of Invisibility, the Floating Cart, and the Shadow Light. Due to high inequality, these items were mostly available to the upper classes.
 
 ### Quərfi period (1274-1407)
-In 1274 the Quərfi, who controlled Wàmèrà at the time, launched an attack on Mangátle and the surrounding region. This first attack was repelled, but after several more attacks, another attack in 1298 succeeded in taking the city.
+In 1274 the Quərfi, who controlled Wàmèrà at the time, launched an attack on Mangátle and the surrounding region. This first attack was repelled, but after several more attacks, another attack in 1298 succeeded in taking the city. The city was heavily damaged in the attacks.
+
+The Quərfi period of Mangátle was marked by a change to a much more militarised city. A new wall was constructed to prevent the city from being retaken by Adcovtle forces. The remains of the Tower of Knowledge were used as a military encampment for Quərfi forces. The non-military population of the city shrunk due to frequent food shortages.
+
+Adcovtle forces retook Mangátle briefly from 1366 to 1367. However, Mangátle remained the primary point of Quərfi control in southern Covtle until the Quərfi were completely expelled from Covtle in 1407. Mangátle was almost completely in ruins again by this point.
+
+### Rebuilding and growth of the university (1407-1533)
