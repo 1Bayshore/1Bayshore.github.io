@@ -38,3 +38,6 @@ The Ice Dragon Winds were very mild in Mangátle, which led to a further influx 
 Mangátle's role in regional trade also continued to grow. In particular, it became the most important point of import for the Wàmèrìzé spice. Traders from Wàmèrà would in turn purchase magic items produced in Mangátle or further north.
 
 ### Great fire of Mangátle (1720)
+In 1720 a fire broke out in a bakery in the south of Mangátle. It quickly became out of control and spread rapidly throughout the city. By the time it was contained over 90 percent of the city had burned. Most of the surviving buildings were in the university, which was built of stone.
+
+The fire led to major changes in the city. Many of the most narrow streets were replaced with larger avenues, the most notable of which is Lagan ad larivlé (lit. River Street).
