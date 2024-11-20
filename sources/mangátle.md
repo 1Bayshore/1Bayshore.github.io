@@ -25,4 +25,16 @@ The Quərfi period of Mangátle was marked by a change to a much more militarise
 
 Adcovtle forces retook Mangátle briefly from 1366 to 1367. However, Mangátle remained the primary point of Quərfi control in southern Covtle until the Quərfi were completely expelled from Covtle in 1407. Mangátle was almost completely in ruins again by this point.
 
-### Rebuilding and growth of the university (1407-1533)
+### Rebuilding and growth of the university (1407-1615)
+After the Adcovtle recapture of Mangátle, the city was slowly rebuilt. The walls were the first thing to be repaired, with a new strengthened wall built by 1408. Priority was also put on rebuidling the university, which reopened in 1411.
+
+In the 1431 Lady Atleva crisis, Lord Caþonlo of Mangátle sided with Lady Atleva rather than with King Jalmu. The creation of lapazadapalavi (lit. parliament) following the crisis allowed for Mangátle to have input, albeit limited to the nobility, in Glisng for the first time.
+
+The University of Mangátle became increasingly indepedent from Glisng during this time, and increasingly tied to the patronage of the local nobility. Lord Caþonlo established several programmes at the university which were to be funded in perpetuity by the Lords of Mangátle, rather than by the King.
+
+### Population growth and economic prosperity (1615-1720)
+The Ice Dragon Winds were very mild in Mangátle, which led to a further influx of farmers to the region from more heavily hit areas looking for warmer temperatures. This in turn led to an increase in artisans and magicians in the city. Between 1615 and 1720, the population of Mangátle is estimated to have increased by 35 percent.
+
+Mangátle's role in regional trade also continued to grow. In particular, it became the most important point of import for the Wàmèrìzé spice. Traders from Wàmèrà would in turn purchase magic items produced in Mangátle or further north.
+
+### Great fire of Mangátle (1720)
