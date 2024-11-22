@@ -43,4 +43,11 @@ In 1720 a fire broke out in a bakery in the south of Mangátle. It quickly becam
 The fire led to major changes in the city. Many of the most narrow streets were replaced with larger avenues, the most notable of which is Lagan ad larivlé (lit. River Street). A new municipal regulation was passed that required all new buildings to be built of stone. The city was mostly rebuilt by 1730.
 
 ### Increased autonomy and trade (1730-1867)
-In the second half of the 1700s, the city of Mangátle became increasingly autonomous from Glisng. King Emtlanðo (famous for Laþopsona ad elvleda (aprox. Wedensday decree)) granted Mangátle increased autonomy in return for favours from Lord Jalmu. These were not reversed after King Emtlanðo's abdication and exile, leaving Mangátle fairly prosperous.
+In the second half of the 1700s, the city of Mangátle became increasingly autonomous from Glisng. King Emtlanðo (famous for Laþopsona ad elvleda (aprox. Wedensday decree)) granted Mangátle increased autonomy in return for favours from Lord Jalmu. Unlike many of King Emtlanðo's decrees, these were not reversed after King Emtlanðo's abdication and exile, leaving Mangátle fairly prosperous.
+
+Adcovtle foreign and military policy during the 1700s and 1800s focused largely on Grèsent. As a result, less money from Glisng arrived in Mangátle. However, trade with Wàmèrà continued to prove prosperous. During this time, the University of Mangátle also became known for its contrarian attitudes towards major issues, leading to academic disputes with the University of Glisng.
+
+### Conflict with Glisng and decline (1867-1967)
+The 1867 war with Grèsent had a large effect on Mangátle. The central government in Glisng strongly reasserted control, cancelling King Emtlanðo's decrees and demanding the production of weapons. This led to protests from some university faculty and students which were quickly surpressed. Many of those opposed to the war fled to Wàmèrà to avoid being imprisoned.
+
+After the war ended in 1876, Mangátle faced high taxation and increased demands from Glisng.
