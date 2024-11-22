@@ -37,7 +37,10 @@ The Ice Dragon Winds were very mild in Mangátle, which led to a further influx 
 
 Mangátle's role in regional trade also continued to grow. In particular, it became the most important point of import for the Wàmèrìzé spice. Traders from Wàmèrà would in turn purchase magic items produced in Mangátle or further north.
 
-### Great fire of Mangátle (1720)
+### Great fire of Mangátle and aftermath (1720-1730)
 In 1720 a fire broke out in a bakery in the south of Mangátle. It quickly became out of control and spread rapidly throughout the city. By the time it was contained over 90 percent of the city had burned. Most of the surviving buildings were in the university, which was built of stone.
 
-The fire led to major changes in the city. Many of the most narrow streets were replaced with larger avenues, the most notable of which is Lagan ad larivlé (lit. River Street).
+The fire led to major changes in the city. Many of the most narrow streets were replaced with larger avenues, the most notable of which is Lagan ad larivlé (lit. River Street). A new municipal regulation was passed that required all new buildings to be built of stone. The city was mostly rebuilt by 1730.
+
+### Increased autonomy and trade (1730-1867)
+In the second half of the 1700s, the city of Mangátle became increasingly autonomous from Glisng. King Emtlanðo (famous for Laþopsona ad elvleda (aprox. Wedensday decree)) granted Mangátle increased autonomy in return for favours from Lord Jalmu. These were not reversed after King Emtlanðo's abdication and exile, leaving Mangátle fairly prosperous.
