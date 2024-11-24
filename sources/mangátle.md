@@ -50,4 +50,16 @@ Adcovtle foreign and military policy during the 1700s and 1800s focused largely 
 ### Conflict with Glisng and decline (1867-1967)
 The 1867 war with Grèsent had a large effect on Mangátle. The central government in Glisng strongly reasserted control, cancelling King Emtlanðo's decrees and demanding the production of weapons. This led to protests from some university faculty and students which were quickly surpressed. Many of those opposed to the war fled to Wàmèrà to avoid being imprisoned.
 
-After the war ended in 1876, Mangátle faced high taxation and increased demands from Glisng.
+After the war ended in 1876, Mangátle faced high taxation and increased demands from Glisng. Despite some people returning from Wàmèrà following the War of Succession there, Mangátle stagnated. Unemployment was a major problem during this period, with many leaving for work in further north places such as Magþe and Wimþac. The opening of new universities in Vlojtum and Wimþac was particularly detrimental to Mangátle's status as a university city.
+
+### Renewal of Mangátle (1967-2019)
+In 1967 the secret plant behind the Wàmèrìzé spice was snuck out of Wàmèrà by Çùɲûnù and planted near Mangátle. This led to a renewal of interest in Mangátle and a growth of related economic opportunities. A railway line was connected to Mangátle in 1972. The university was expanded in 1998 following a renewed interest in Mangátle's earlier contrarian scholarship. Lañome ad tesececlohé ad Mangátle (lit. The Student's Society of Mangátle) was established in 2001 to advocate for students in Mangátle. It quickly became controversial for disagreements with the government in Glisng.
+
+### Wàmèrì war and protest (2019-2022)
+The Wiþi imperial government delcared war on Wàmèrà in 2019. Mangátle was intended to be a base of operations for launching the invasion. However, the war was widely opposed in Mangátle, in particular by the university. Protests against the war, organised by Lañome ad tesececlohé ad Mangátle, were described as "massive" and "sending a powerful message against the war" by Lelvlai ad Mangátle (lit. The Mangátle Star).
+
+Many prominent individuals were arrested for participation in illegal protests. These included Vlavin Asoli, a city counsellor of Mangátle at the time, Jetla Admangátle, the head of Lañome ad tesececlohé ad Mangátle, and Bloro Adili, a student who died due to injuries from his arrest. The protests interrupted military operations and were considered a contributing factor to the decision of the Titoþagli party to end the war once elected.
+
+Mangátle was damaged twice during the war. The first damage was from a bomb that had been snuck into Lahegar ad Mangátle (lit. the Mangátle barracks) by a Wàmèrì spy. It exploded, killing 15 soldiers. The second damage came from an explosion of gunpowder being delivered to Lehega ad Mangátle through the city by train. It exploded in the north end of the city, levelling 10 buildings and killing 77 people, mostly civilians.
+
+### Post-war period (2022-2047)
