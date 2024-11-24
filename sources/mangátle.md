@@ -62,4 +62,12 @@ Many prominent individuals were arrested for participation in illegal protests. 
 
 Mangátle was damaged twice during the war. The first damage was from a bomb that had been snuck into Lahegar ad Mangátle (lit. the Mangátle barracks) by a Wàmèrì spy. It exploded, killing 15 soldiers. The second damage came from an explosion of gunpowder being delivered to Lehega ad Mangátle through the city by train. It exploded in the north end of the city, levelling 10 buildings and killing 77 people, mostly civilians.
 
-### Post-war period (2022-2047)
+### Post-war period (2022-today)
+Since 2022, Mangátle has continued to grow in population. Immigration from Wàmèrà has been a significant contributer to Mangátle's population growth. Several more controversies have arisen, such as:
+- Lapeomvlenet ad tetitoþa ad latordo (lit. The disagreement about university funds)
+- The election of anti-war activist [Fentlama Acleð](/2024/9/9/fentlama-acle%C3%B0.html) to Lapazadapalavi
+- Several disputes between the city government and the government of Covtle
+
+In 2044 Mangátle was declared Lajavlu ad lapebac (lit. A city of the future) by Lamom ad Glisng (lit. The News in Glisng), along with Glisng and Wimþac.
+
+## 
