@@ -70,4 +70,18 @@ Since 2022, Mangátle has continued to grow in population. Immigration from Wàm
 
 In 2044 Mangátle was declared Lajavlu ad lapebac (lit. A city of the future) by Lamom ad Glisng (lit. The News in Glisng), along with Glisng and Wimþac.
 
-## 
+## Geography
+Mangátle is the southernmost city in Covtle, located at the foothills of the Cientla mountains. The Jaþmanda River runs through town.
+
+One rail line serves Mangátle, connecting it to Glisng in the north and Quərfi in the south. Mangátle is also connected by a tram network, which has 15 lines.
+
+### Climate
+Mangátle has a warm-summer Mediterranean climate (Csb). The average high temperature in the summer is 25 degrees, and the average low temperature in the winter is 7 degrees.
+
+## Economy
+
+## Art and culture
+
+## Education
+
+## Notable people
