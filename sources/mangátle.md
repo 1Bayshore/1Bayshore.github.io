@@ -79,6 +79,9 @@ One rail line serves Mangátle, connecting it to Glisng in the north and Quərfi
 Mangátle has a warm-summer Mediterranean climate (Csb). The average high temperature in the summer is 25 degrees, and the average low temperature in the winter is 7 degrees.
 
 ## Economy
+The University of Mangátle is the biggest employer in Mangátle. It accounted for 35 percent of all employment in the city. Lañome ad lasececlohé ad Mangátle (lit. The Student's Soceity of Mangátle) employed about 20 percent of the city's population.
+
+Other employers include the city of Mangátle, Lañome ad laðwam (lit. The Spice Group), and the government of Covtle.
 
 ## Art and culture
 
