@@ -4,7 +4,7 @@ Fentlama Acleð was born in 2007 in Glisng. Both of her parents worked for Teva�
 
 At the age of 18, she began working as a waitress for the dining cars on various routes within the Wiþi Empire.
 ## Espa Adnorbuj Incident
-On 20 losi 2032, while working as a waitress on the Mangátle remta, she was assigned to serve Lord Espa Adnorbuj. According to her initial account of the incident, Lord Espa Adnorbuj rudely demanded that she swear allegiance to him, and she refused and refused to serve him afterwards. However, in later commentary she suggested that it might have been unprovoked: "I hated him for his reckless endangering of my brother and other civilians. He was rude, but if I'm honest that wasn't my primary motivation." Lord Espa Adnorbuj maintained to his death that he had simply attempted to order tea. All parties agree that Lord Espa Adnorbuj was served no tea between Mangátle and Glisng.
+On 20 losi 2032, while working as a waitress on the Mangátle remta, she was assigned to serve Lord Espa Adnorbuj. According to her initial account of the incident, Lord Espa Adnorbuj rudely demanded that she swear allegiance to him, and she refused and refused to serve him afterwards. However, in later commentary she suggested that it might have been unprovoked: "I hated him for his reckless endangering of my brother and other civilians. He was rude, but if I'm honest that wasn't my primary motivation." Lord Espa Adnorbuj maintained to his death that he had simply attempted to order tea. All parties agree that Lord Espa Adnorbuj was served no tea between [Mangátle](/2024/11/24/mangátle.html) and Glisng.
 ## Aftermath
 When Fentlama's supervisor learned of the incident, he summoned her to explain herself. He fired her at the end of the meeting.
 
