@@ -64,6 +64,7 @@ Mangátle was damaged twice during the war. The first damage was from a bomb tha
 
 ### Post-war period (2022-today)
 Since 2022, Mangátle has continued to grow in population. Immigration from Wàmèrà has been a significant contributer to Mangátle's population growth. Several more controversies have arisen, such as:
+
 - Lapeomvlenet ad tetitoþa ad latordo (lit. The disagreement about university funds)
 - The election of anti-war activist [Fentlama Acleð](/2024/9/9/fentlama-acle%C3%B0.html) to Lapazadapalavi
 - Several disputes between the city government and the government of Covtle
