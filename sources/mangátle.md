@@ -84,7 +84,16 @@ The University of Mangátle is the biggest employer in Mangátle. It accounted f
 Other employers include the city of Mangátle, Lañome ad laðwam (lit. The Spice Group), and the government of Covtle.
 
 ## Art and culture
+Mangátle is known for its art and culture. Lacanaval ad tevlor (lit. The Festival of Flowers) is an annual spring event celebrating the culture of Mangátle. Many artists have lived in Mangátle over the years, including Moñodo Adavia and Jetla Acleð (Gno Gəʒe).
 
-## Education
+Compared to other cities in Covtle, Mangátle is notable for its bright colours in fashion. Clothing in Mangátle is significantly more colourful than clothing in Mjarec, just 60 km north. Þmangte admangátle (lit. People from Mangátle) are also known for being flexible with formality of attire. This sometimes confuses and offends travellers from the rest of Covtle.
 
 ## Notable people
+
+*The following list is incomplete, and will be expanded in the future.*
+
+- Lord Caþonlo Admangátle
+- [Fentlama Acleð](/2024/9/9/fentlama-acle%C3%B0.html)
+- Þana Admjarec
+- Moñodo Adavia
+- Jetla Acleð (Gno Gəʒe)
