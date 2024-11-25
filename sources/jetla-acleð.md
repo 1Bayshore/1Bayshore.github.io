@@ -1,0 +1,3 @@
+**Jetla Alceð** is a painter based in Mangátle. She is best known for her colourful landscapes, which are considered to be part of the Marligli artistic movement. Her work Lasoli seña Ataglin (lit. The sun over Ataglin) won Lageðba ad latordo ad Mangátle (lit. the University of Mangátle prize) in 2044.
+
+Her father King Gno Gəʒe of Quərfi has attempted to have her kidnapped multiple times and returned to the royal court of Quərfi.
