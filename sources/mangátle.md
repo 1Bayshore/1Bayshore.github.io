@@ -93,6 +93,9 @@ Compared to other cities in Covtle, Mangátle is notable for its bright colours 
 *The following list is incomplete, and will be expanded in the future.*
 
 - Lord Caþonlo Admangátle
+- Vlavin Asoli
+- Jetla Admangátle
+- Bloro Adili
 - [Fentlama Acleð](/2024/9/9/fentlama-acle%C3%B0.html)
 - Þana Admjarec
 - Moñodo Adavia
