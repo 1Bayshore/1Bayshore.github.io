@@ -1,6 +1,6 @@
 # personal-website
 
-URL: TBD
+URL: https://1bayshore.github.io/
 
 A static website for personal information and projects.
 
