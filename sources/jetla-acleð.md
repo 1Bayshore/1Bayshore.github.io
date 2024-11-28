@@ -14,3 +14,13 @@ While Jetla was initially praised for her diligence in her work, she was later a
 ## Escape from Quərfi
 On the morning of 15 seci 2039, Jetla was reported missing from her quarters by a servant bringing her breakfast. The city was searched, and Jetla was declared missing.
 
+On the afternoon on 16 seci 2039, Jetla was taken into custody in Ʃàbèè. While she was at first charged with illegally importing a flying carpet to Wàmèrà, the charges were dropped on 18 seci 2039 and she was released. She travelled north to Mangátle, where she began looking for work.
+
+Xənha and several servants were tried for "corrupting the prince". Xənha was convicted and sentenced to life in prison, which he is still serving today.
+
+## Painting career
+Upon arrival in Mangátle, Jetla declared her new name to be Jetla Acleð. After a rejection of support by several higher officials, she eventually moved into Lapaza amarli (lit. The Painted House), a colourful building with a large number of artist squatters. She learned how to paint from several of the artists there.
+
+In 2042 Jetla sold Jaþmanda e latasoli (lit. The Jaþmanda and a rainbow) for Z127. This drew greater attention to her art. Her work Lasoli seña Ataglin (lit. The sun over Ataglin) won Lageðba ad lazudba ad latordo ad Mangátle (lit. the University of Mangátle art prize) in 2046.
+
+Jetla is generally considered to be part of the Marligli artistic movement. Her works focus on natural scenes and strokes of colour. She rarely includes any human figures in her paintings.
