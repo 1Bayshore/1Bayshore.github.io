@@ -12,6 +12,6 @@ During the Wàmèrì War, clothing unique to Mangátle became very popular with 
 Labeavlor (lit. flower skirt) is a skirt with cloth flowers sewn on. It originated as an item of ceremonial clothing for lacanaval ad tevlor. However it is now considered acceptable attire for all situations. Like most Mangátle-specific clothing, it is not considered to be gendered attire.
 
 ### Lalabnol ave
-Lalabnol ave (aprrox. shawl) is another item of clothing that is popualar in Mangátle but not commonly worn elsewhere in Covtle. It is a loose fitting piece of fabric that wraps around the upper body. While historically it was often worn over a lalabnol tresmantef, today it is commonly worn alone.
+Lalabnol ave (aprrox. shawl) is another item of clothing that is popualar in Mangátle but not commonly worn elsewhere in Covtle. It is a loose fitting piece of fabric that wraps around the upper body. While historically it was often worn over a lalabnol tresmantef, today it is commonly worn without an underlayer.
 
 ### Lalabnol tresmantef
