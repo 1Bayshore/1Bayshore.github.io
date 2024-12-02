@@ -87,7 +87,7 @@ Other employers include the city of Mangátle, Lañome ad laðwam (lit. The Spic
 ## Art and culture
 Mangátle is known for its art and culture. Lacanaval ad tevlor (lit. The Festival of Flowers) is an annual spring event celebrating the culture of Mangátle. Many artists have lived in Mangátle over the years, including Moñodo Adavia and [Jetla Acleð](/2024/11/27/jetla-acleð.html).
 
-Compared to other cities in Covtle, Mangátle is notable for its bright colours in fashion. Clothing in Mangátle is significantly more colourful than clothing in Mjarec, just 60 km north. Þmangte admangátle (lit. People from Mangátle) are also known for being flexible with formality of attire. This sometimes confuses and offends travellers from the rest of Covtle.
+Compared to other cities in Covtle, Mangátle is notable for its bright colours in fashion. [Clothing in Mangátle](/2024/12/2/clothing-in-mangátle.html) is significantly more colourful than clothing in Mjarec, just 60 km north. Þmangte admangátle (lit. People from Mangátle) are also known for being flexible with formality of attire. This sometimes confuses and offends travellers from the rest of Covtle.
 
 ## Notable people
 
