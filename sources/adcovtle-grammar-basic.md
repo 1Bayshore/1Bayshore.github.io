@@ -12,12 +12,11 @@ Verb tenses:
 Note: Some verbs are considered «þepete verbs». With these verbs, þ-, p-, and t- prefixes are used in the absolute forms instead of ð-,   
 Note: For verbs that begin with a consonant in the infinitive, remove the final vowel, and put it at the front.
 
-Nouns:
+Noun Prefix Usage:
+	•	Counted Nouns: Use the prefix la- (attached directly to the noun, e.g., laplimotem). If the word begins with a vowel, the prefix is shortened to just l-
+	•	Uncounted Nouns: Use the prefix te- (also attached directly, e.g., telograði). if the word begins with a vowel, the prefix is shorted to just t-
 
-| Prefix | Association |
-| :---- | :---- |
-| la- (l- if word begins with vowel) | Counted (without specified number, assumed one) |
-| te- (t- if word begins with vowel) | Uncounted |
+Make sure the prefixes form one word with the noun (e.g., “laplimotem” rather than “la plimotem”).
 
 Adjectives, adverbs, other modifiers:
 
