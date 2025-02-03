@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <meta charset="utf-8"/>
+        <title>
+         Sign up for email notifications - 1Bayshore
+        </title>
+        <link href="/style.css" rel="stylesheet"/>
+    </head>
+    <body class="page">
+        <div class="topBar">
+            <a href="/index.html">
+            Home
+            </a>
+            <a href="/about.html">
+            About Me
+            </a>
+            <a href="/search.html">
+            Search
+            </a>
+        </div>
+        <div class="content">
+            <h1 class="title">
+                Sign up for updates
+            </h1>
+            <form class="gform" method="POST" action="https://script.google.com/macros/s/AKfycbwvZNqSKFcYZDe0c3VZiUOYxD3NKaUJlbhFbuR5NpZ76Pb8oo_1gugp0Ztwoy_QIbWM/exec">
+                <label>Email: </label>
+                <input id="email" name="email" type="email" value="" required/>
+                <button>Sign up</button>
+                <!--tutorial suggests honeypot field, implement here when everything else is working-->
+            </form>
+            <script>
+                window.addEventListener("load", function() {
+                  const scriptURL = 'https://script.google.com/macros/s/AKfycbwvZNqSKFcYZDe0c3VZiUOYxD3NKaUJlbhFbuR5NpZ76Pb8oo_1gugp0Ztwoy_QIbWM/exec'
+                  const form = document.getElementsByClassName('gform')[0];
+                  form.addEventListener("submit", function(e) {
+                    e.preventDefault();
+                    const data = new FormData(form);
+                    fetch(scriptURL, {
+                      method: 'POST',
+                      body: data,
+                      mode: 'no-cors', // unsure if this is needed since access changed to anyone
+                    })
+                    .then(() => {
+                    window.top.location.href = '/email-signup-success.html';
+                    })
+                  });
+                });
+                </script>
+        </div>
+        <div class="footer">
+            Copyright © 2025
+        </div>
+    </body>
+</html>
