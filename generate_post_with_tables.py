@@ -85,7 +85,7 @@ if mode in ["new", "update"]:
             soupa = BeautifulSoup(f.read(), "html.parser")
             text = "\n".join([x.get_text() for x in soupa.find("div", class_="body").find_all("p")])
 
-    if title == "":
+    if title == "": # XXX does this code ever run?
         with open("site" + url, encoding='utf-8') as f:
             soupb = BeautifulSoup(f.read(), "html.parser")
             title = soupb.find("h1", class_="title").get_text().strip()
