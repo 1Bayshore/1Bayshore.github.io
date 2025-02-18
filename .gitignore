@@ -1,2 +1,5 @@
 .venv/*
 nohup.out
+client_secret_562864156121-9cauudp4uh8mrq817msadhtq57gk8uhn.apps.googleusercontent.com.json
+google_app_password.txt
+send_email.py
