@@ -1,0 +1,149 @@
+The inside of the house was fairly small. The floor was made of a rough stone and the walls were made of pine wood. An older woman stood in front of an iron stove in the back of the room. There was a steep stairway to their right and a door to their left.
+
+A younger man entered the room from the door. Two young kids wandered in after him. The older one said something in Wàmèrìʒá that none of the four friends could understand. The younger one clung to his dad's leg. The older woman turned around from the stove.
+
+The man who had let them in sighed another sigh. "We are once again the hosts of some travellers from a far-off land. We should welcome them before they begin their journeys again tomorrow."
+
+"Welcome," the older woman said. "My name is Klàʝíídá. It is an honour to host you. I see you have already met my husband, Stélìzà." She then indicated to the younger man. "This is my honorary son, Télînàdà, and my two grandchildren, Kàlàdà and Ãnòwì."
+
+"It is an honour to be hosted by you," Cemili said. "I am Cemili, and these are my friends Jetla, Mosile, and Flac."
+
+"Please feel free to relax," Klàʝíídá said. "We're currently preparing dinner, and it should be ready soon. There are some chairs in the other room if you wish to sit down."
+
+"Thank you for your kindness," Cemili said. Jetla, Mosile, and Flac each thanked their hosts as well.
+
+The two children hurried off into the other room. Télînàdà said "Please, make yourselves at home," before following the kids into the other room. After a moment Mosile and Flac followed him into the other room.
+
+The other room had a large fireplace in the far wall. A couple of wooden benches surrounded it. A large bed was in the corner, covered with a quilt. A table was at the opposite end of the room from the bed. On the table there were several worn-out shirts laid out flat and a needle and thread.
+
+Télînàdà walked over to the table and sat down. He began to sew patches of fabric onto the holes in the worn-out shirts. The children both went over close to the fire and lay down on the floor, each playing with some sort of wooden toy.
+
+Flac approached Télînàdà, watching his diligent work sewing together the patches. She smiled as he sewed the patches over the holes in the shirt. After a moment, she said, "Would you like me to fuse the patches on?"
+
+Télînàdà looked up in surprise. "What do you mean by fuse?"
+
+"Instead of sewing on the patches, I could merge them with the fabric of the shirt."
+
+"What magic is that?" Télînàdà asked. "I've never heard of it before."
+
+"It's Enkan-style magic," Flac answered.
+
+"Flac knows every type of magic," Mosile explained, smiling.
+
+"Not quite," Flac said. "When will I meet a dragon and get to learn dragon magic?"
+
+"Well, almost every type of magic," Mosile said.
+
+Télînàdà looked down at the shirt and the patch. "Perhaps you could demonstrate how this magic works."
+
+"Sure\!" Flac said. She picked up the shirt and patch and used her palms to press the patch over the hole in the shirt. She then released the shirt. It fell back onto the table, the fabric where the hole had been looking like it had never been torn. Only a faint red glow marked the spot where the hole had once been. Télînàdà looked on in amazement.
+
+Meanwhile, back in the other room, Klàʝíídá turned to Stélìzà and asked, "Could you fetch some more wood for the stove?"
+
+Stélìzà sighed and started towards the door, before Jetla suddenly offered, "We can help\!"
+
+"I'll be okay," Stélìzà said.
+
+"No, really, we can help," Jetla offered again.
+
+"If you insist," Stélìzà said.
+
+"Actually," Cemili said, "I think I could be more useful in here. Klàʝíídá, do you need any help with preparing dinner?"
+
+"Oh, I should be okay," Klàʝíídá said. "Feel free to relax."
+
+Before long Stélìzà and Jetla returned with the wood. Klàʝíídá finished cooking the soup, with a bit of help from Cemili, and announced that dinner was ready. After a moment everyone gathered around the table. After the chatter had quieted down, Klàʝíídá spoke.
+
+"So, our guests, normally we sing a short song before every meal. It honours our ancestors and those who protect us from beyond this world. You are welcome to sing along."
+
+Everyone then began to sing out a song. Later, Jetla later tried to translate it into Adcovtle, but found she couldn't quite capture the evocative imagery of the song, with their ancestors and their lives from the farm to the battlefield, and their watching over the family from their place beyond life.
+
+After the song had finished, everyone served themselves and ate some of the richly flavoured soup. As they ate, Kàlàdà asked the four friends, "Where are you from?"
+
+"Now, Kàlàdà, you know we don't ask those kinds of questions," Télînàdà said.
+
+"Oh, it's okay," Jetla said. "We're university students from Mangátle, in the south of Covtle, although before I lived in Mangáte I used to live in Vlojtum, which is in the north of Covtle."
+
+"I used to live in Quərfi," Cemili added.
+
+"Mangátle \- isn't that where mum-" Kàlàdà began.
+
+"Kàlàdà\!" Télînàdà interrupted. "That is not appropriate to bring up with guests."
+
+Around this time something blurry flew by the window. "What was that?" Ãnòwì asked.
+
+"Probably nothing important," Cemili said.
+
+Another few blurry things flew by the window. After glancing at them, Jetla said, "The soup is delicious\! How did you make it?"
+
+"It's an old family recipe," Stélìzà said. "It uses peas, cream, and of course a lot of Wàmèrìzé spice."
+
+The light outside began to dim as they continued eating. Télînàdà lit a candle in the centre of the table. As everyone finished up their food, Télînàdà told the two kids, "You've been very good this evening. Now it's bedtime."
+
+"I want a story\!" Ãnòwì said.
+
+"Daddy has to help clean up," Télînàdà said.
+
+Mosile's eyes lit up at the word story. "I can tell you a story\!" she offered.
+
+"We shouldn't inconvenience our guests like that," Télînàdà said.
+
+"I want Mosile's story\!" Ãnòwì said.
+
+Télînàdà turned to Mosile. "Are you sure you want to tell a story?" he asked.
+
+"I love telling stories\!" Mosile said. "I'd be delighted\!"
+
+Ãnòwì gave a cry of joy. The four friends followed Kàlàdà and Ãnòwì upstairs to the small upper room. Ãnòwì lay down in her bed and Mosile began her story.
+
+"This is a favourite story my mum Natla used to tell to me when I was growing up. Once upon a time there was a bear and a plusamben. Bear-"
+
+"What's a plusamben?" Ãnòwì interrupted.
+
+"It's a creature that lives in parts of Covtle, and especially in Sudasichas," Mosile explained. "It's like a small lizard, but it has a powerful shock when you step on it. Anyways, so Bear was talking to Coyote about-"
+
+"I thought you said there was a bear and a plusamben\!" Ãnòwì interrupted.
+
+"There was a bear, a plusamben, and a coyote," Mosile said. "Bear was talking to Coyote. Coyote said to Bear, 'There is a newcomer who you should be careful around. She is called Plusamben and she is very powerful.'
+
+But Bear was prideful. 'Why should I watch out for Plusamben?' he asked. 'Is she bigger than me?'
+
+'No, she is quite small,' the coyote said. 'She is smaller than Turtle.'
+
+Bear laughed a heavy laugh. 'I will not walk in fear of someone smaller than Turtle.' He left Coyote, laughing.
+
+Bear headed back to his house to rest. As he walked, he spotted a small yellow and blue creature. 'Who are you?' he asked.
+
+'I am Plusamben' the creature said.
+
+The bear laughed. 'You are the feared Plusamben? I could walk by you without noticing.'
+
+'You should give others more respect,' Plusamben said.
+
+Bear angrily stormed on. As he passed Plusamben, he stomped his foot down on her.
+
+Suddenly Bear felt a shock of extreme pain. He looked down and saw Plusamben, scurrying off into the distance. Bear let out a roar of pain. He hobbled the rest of the way to his home.
+
+And from that day forward, Bear never assumed the size of a creature determined its ferocity."
+
+Mosile looked down at Ãnòwì. Her eyes were already closed. "Goodnight," Mosile said quietly.
+
+"Goodnight, Mosile," Ãnòwì said.
+
+The four friends returned downstairs. Jetla chuckled as soon as they reached the main floor again. "You sure are a good storyteller, Mosile," she said.
+
+"You're not bad yourself," Mosile said.
+
+The four of them settled down in the chairs by the fire. As they relaxed, Flac spoke up.
+
+"Cemili," she said, "I think you're like a plusamben. People might think you're easy to order around, but you're much stronger than that."
+
+Cemili laughed. "I think we're all like plusambens," she said. "Nobody expected you to spend your winter break rescuing your friend from her own parents."
+
+Flac smiled. "Maybe so," she said. "If we were a group of adventurers, we'd be called the Plusamben Fellowship or something like that."
+
+"I think we are a group of adventurers," Jetla said. "I suspect we have many adventures in our future."
+
+"To the Plusamben Fellowship\!" Flac said.
+
+"If we only had glasses to toast with," Mosile said. Everyone laughed.
