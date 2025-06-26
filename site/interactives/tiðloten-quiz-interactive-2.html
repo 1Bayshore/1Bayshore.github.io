@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <meta charset="utf-8"/>
+        <title>
+         Tiðloten Interactive Quiz 2
+        </title>
+        <link href="/style.css" rel="stylesheet"/>
+        <style>
+            .invisible {
+                display: none;
+            }
+        </style>
+    </head>
+    <body class="page">
+        <div class="invisible" id="results-explanation">The cities/regions you are closest to are the following:</div>
+        <div class="invisible" id="results">
+            <div>
+                <label for="glisng">Glisng</label>
+                <meter id="glisng"></meter>
+            </div>
+            <div>
+                <label for="mangátle">Mangátle</label>
+                <meter id="mangátle"></meter>
+            </div>
+            <div>
+                <label for="þoriv">Þoriv</label>
+                <meter id="þoriv"></meter>
+            </div>
+            <div>
+                <label for="vlojtum">Vlojtum</label>
+                <meter id="vlojtum"></meter>
+            </div>
+            <div>
+                <label for="magþe">Magþe</label>
+                <meter id="magþe"></meter>
+            </div>
+            <div>
+                <label for="norbuj">Norbuj</label>
+                <meter id="norbuj"></meter>
+            </div>
+            <div>
+                <label for="wimþac">Wimþac</label>
+                <meter id="wimþac"></meter>
+            </div>
+            <div>
+                <label for="paltlon">Paltlon</label>
+                <meter id="paltlon"></meter>
+            </div>
+            <div>
+                <label for="voanter">Voanter</label>
+                <meter id="voanter"></meter>
+            </div>
+            <div>
+                <label for="ataglin">Ataglin</label>
+                <meter id="ataglin"></meter>
+            </div>
+            <div>
+                <label for="tysklø">Tysklø</label>
+                <meter id="tysklø"></meter>
+            </div>
+            <div>
+                <label for="sudasichas">Sudasichas</label>
+                <meter id="sudasichas"></meter>
+            </div>
+            <div>
+                <label for="dokagrolis">Dokagrolis</label>
+                <meter id="dokagrolis"></meter>
+            </div>
+            <div>
+                <label for="agrasichas">Agrasichas</label>
+                <meter id="agrasichas"></meter>
+            </div>
+            <div>
+                <label for="trèsicha">Trèsicha</label>
+                <meter id="trèsicha"></meter>
+            </div>
+            <div>
+                <label for="lèrtsfort">Lèrtsfort</label>
+                <meter id="lèrtsfort"></meter>
+            </div>
+            <div>
+                <label for="lèrtsbon">Lèrtsbon</label>
+                <meter id="lèrtsbon"></meter>
+            </div>
+            <div>
+                <label for="ongrèstilsa">Ongrèstilsa</label>
+                <meter id="ongrèstilsa"></meter>
+            </div>
+            <div>
+                <label for="onþod">Onþod</label>
+                <meter id="onþod"></meter>
+            </div>
+            <div>
+                <label for="šalva">Šalva</label>
+                <meter id="šalva"></meter>
+            </div>
+            <div>
+                <label for="desert-village">Desert village</label>
+                <meter id="desert-village"></meter>
+            </div>
+            <div>
+                <label for="atšeri">Atšeri</label>
+                <meter id="atšeri"></meter>
+            </div>
+            <div>
+                <label for="halku">Halku</label>
+                <meter id="halku"></meter>
+            </div>
+            <div>
+                <label for="salgonri">Salgonri</label>
+                <meter id="salgonri"></meter>
+            </div>
+            <div>
+                <label for="zemhhuno">Zemhhuno</label>
+                <meter id="zemhhuno"></meter>
+            </div>
+            <div>
+                <label for="femrel">Femrel</label>
+                <meter id="femrel"></meter>
+            </div>
+            <div>
+                <label for="dyaša">Dyaša</label>
+                <meter id="dyaša"></meter>
+            </div>
+            <div>
+                <label for="zanhhuiltya">Zanhhuiltya</label>
+                <meter id="zanhhuiltya"></meter>
+            </div>
+            <div>
+                <label for="salte">Salte</label>
+                <meter id="salte"></meter>
+            </div>
+            <div>
+                <label for="valdya">Valdya</label>
+                <meter id="valdya"></meter>
+            </div>
+            <div>
+                <label for="upland-wàmèrà">Upland Wàmèrà</label>
+                <meter id="upland-wàmèrà"></meter>
+            </div>
+            <div>
+                <label for="lowland-wàmèrà">Lowland Wàmèrà</label>
+                <meter id="lowland-wàmèrà"></meter>
+            </div>
+            <div>
+                <label for="quərfi">Quərfi</label>
+                <meter id="quərfi"></meter>
+            </div>
+            <div>
+                <label for="the-northern-lands">The Northern Lands</label>
+                <meter id="the-northern-lands"></meter>
+            </div>
+            <div>
+                <label for="nālesdawi">Nālesdawi</label>
+                <meter id="nālesdawi"></meter>
+            </div>
+            <div>
+                <label for="dese-voldo">Dese Voldo</label>
+                <meter id="dese-voldo"></meter>
+            </div>
+        </div>
+        <script type="text/javascript">
+            let qNum = 0;
+            for (let i in document.getElementsByTagName('meter')) {
+                document.getElementsByTagName('meter')[i].max = 100
+            }
+            function updatePoints(cities) {
+                cities.forEach(city => {
+                    if (document.getElementById(city).value != null) {
+                        document.getElementById(city).value++;
+                    } else {
+                        document.getElementById(city).value = 1;
+                    }
+                });
+                document.getElementById('all-questions').children[qNum].classList.add('invisible');
+                qNum++;
+                if (qNum >= document.getElementById('all-questions').children.length) {
+                    displayResults();
+                }
+                else {
+                    document.getElementById('all-questions').children[qNum].classList.remove('invisible');
+                }
+            }
+
+            function displayResults() {
+                for (let i in document.getElementsByTagName('meter')) {
+                    document.getElementsByTagName('meter')[i].max = qNum;
+                }
+                let eles = [];
+                for (let j = 0; j < document.getElementById('results').children.length; j++) {
+                    eles.push(document.getElementById('results').children[j]);
+                }
+                
+                eles.sort(function (ele1, ele2) {
+                    if (ele1.children[1].value > ele2.children[1].value) {
+                        return -1;
+                    } else if (ele1.children[1].value < ele2.children[1].value) {
+                        return 1;
+                    } else {
+                        return 0;
+                    }
+                });
+                document.getElementById('results').innerHTML = "";
+                for (let k in eles) {
+                    document.getElementById('results').appendChild(eles[k]);
+                }
+
+                document.getElementById('results-explanation').classList.remove('invisible');
+                document.getElementById('results').classList.remove('invisible');                
+                document.getElementById('all-questions').classList.add('invisible');
+            }
+        </script>
+        <div id="all-questions">
+            <div>
+                <p>Someone is flying over you. They're...</p>
+                <button onclick="updatePoints(['quərfi', 'upland-wàmèrà', 'lowland-wàmèrà'])">Flying a carpet</button>
+                <button onclick="updatePoints(['glisng', 'mangátle', 'þoriv', 'vlojtum', 'magþe', 'norbuj', 'paltlon', 'voanter', 'ataglin', 'sudasichas', 'onþod', 'zemhhuno', 'femrel', 'valdya', 'the-northern-lands', 'nālesdawi', 'dese-voldo'])">Riding a dragon</button>
+                <button onclick="updatePoints(['dokagrolis', 'agrasichas', 'trèsicha', 'lèrtsfort', 'lèrtsbon', 'ongrèstilsa', 'šalva', 'desert-village'])">Under their own power</button>
+                <button onclick="updatePoints(['wimþac', 'tysklø', 'atšeri', 'halku', 'salgonri'])">Facing an unfortunate accident</button>
+                <button onclick="updatePoints(['dyaša', 'zanhhuiltya', 'salte'])">Best not to ask questions</button>
+            </div>
+            <div class="invisible">
+                <p>You need to travel to a nearby city. You'll travel by...</p>
+                <button onclick="updatePoints(['femrel', 'upland-wàmèrà', 'lowland-wàmèrà', 'the-northern-lands', 'nālesdawi', 'dese-voldo'])">Horse</button>
+                <button onclick="updatePoints(['ataglin', 'atšeri', 'zemhhuno'])">Ship</button>
+                <button onclick="updatePoints(['glisng', 'mangátle', 'þoriv', 'vlojtum', 'magþe', 'norbuj', 'wimþac', 'paltlon', 'voanter', 'dokagrolis', 'agrasichas', 'trèsicha', 'lèrtsfort', 'lèrtsbon', 'ongrèstilsa', 'onþod', 'dyaša', 'zanhhuiltya', 'salte', 'valdya'])">Train</button>
+                <button onclick="updatePoints(['šalva', 'desert-village'])">Camel</button>
+                <button onclick="updatePoints(['tysklø', 'halku', 'salgonri'])">Foot</button>
+                <button onclick="updatePoints(['quərfi'])">Flying carpet</button>
+                <button onclick="updatePoints(['sudasichas'])">Giant Flying Lightning Skink (Plusambengli)</button>
+            </div>
+            <div class="invisible">
+                <p>You've been summoned to testify in court. You're going to wear...</p>
+                <button onclick="updatePoints(['glisng', 'vlojtum', 'magþe', 'norbuj', 'paltlon', 'voanter', 'wimþac', 'ataglin', 'agrasichas', 'trèsicha', 'lèrtsfort', 'lèrtsbon'])">A plain black suit or dress</button>
+                <button onclick="updatePoints(['zemhhuno'])">A blue sash</button>
+                <button onclick="updatePoints(['upland-wàmèrà'])">One of my cleaner tan outfits</button>
+                <button onclick="updatePoints(['quərfi'])">Something flowy and bright coloured</button>
+                <button onclick="updatePoints(['onþod', 'halku', 'salgonri'])">My military uniform</button>
+                <button onclick="updatePoints(['nālesdawi', 'dese-voldo'])">A very elaborate outfit I don't have time to describe now</button>
+                <button onclick="updatePoints(['mangátle', 'sudasichas'])">Fuck, I'm supposed to wear something specific?</button>
+                <button onclick="updatePoints(['valdya', 'dyaša', 'zanhhuiltya', 'salte'])">Whatever they dragged me off the street in</button>
+                <button onclick="updatePoints(['femrel'])">Doesn't matter, we're all trying our best</button>
+                <button onclick="updatePoints(['the-northern-lands', 'tysklø'])">Court? What's that?</button>
+                <button onclick="updatePoints(['lowland-wàmèrà'])">More than I normally wear</button>
+                <button onclick="updatePoints(['þoriv', 'dokagrolis', 'ongrèstilsa', 'šalva', 'desert-village', 'atšeri'])">I'm running away</button>
+            </div>
+            <div class="invisible">
+                <p>Thank goodness that's over. Now you're going on a date. For this you're going to wear...</p>
+                <button onclick="updatePoints(['glisng', 'onþod'])">A plain black suit or dress again, but with a colourful accent piece</button>
+                <button onclick="updatePoints(['vlojtum', 'magþe', 'norbuj', 'paltlon', 'voanter', 'þoriv', 'wimþac', 'ataglin'])">My only formal outfit, and that's blue</button>
+                <button onclick="updatePoints(['quərfi'])">Something flowy and bright coloured</button>
+                <button onclick="updatePoints(['agrasichas', 'trèsicha', 'lèrtsfort', 'lèrtsbon', 'sudasichas', 'dokagrolis', 'ongrèstilsa'])">A telofte would be too risky, but it should at least show my element's colour</button>
+                <button onclick="updatePoints(['femrel'])">Something ordinary, like a pair of trousers and shirt</button>
+                <button onclick="updatePoints(['mangátle'])">Something ordinary, like a flowery skirt and a loose fitting shawl</button>
+                <button onclick="updatePoints(['valdya'])">Something that's attractive to humans, not dragons</button>
+                <button onclick="updatePoints(['nālesdawi'])">Something that's attractive to dragons, not humans</button>
+                <button onclick="updatePoints(['zemhhuno'])">A red sash</button>
+                <button onclick="updatePoints(['dyaša', 'zanhhuiltya', 'salte'])">Work clothes, or at least something that doesn't stand out</button>
+                <button onclick="updatePoints(['dese-voldo'])">Doesn't matter, as long as it doesn't look like work clothes</button>
+                <button onclick="updatePoints(['the-northern-lands'])">Something warm</button>
+                <button onclick="updatePoints(['tysklø'])">Something cool</button>
+                <button onclick="updatePoints(['atšeri'])">This nice new outfit I just got. I can assure you I didn't steal it</button>
+                <button onclick="updatePoints(['halku', 'salgonri'])">My military uniform</button>
+                <button onclick="updatePoints(['upland-wàmèrà'])">Riding clothes</button>
+                <button onclick="updatePoints(['lowland-wàmèrà'])">Nothing much</button>
+                <button onclick="updatePoints(['šalva', 'desert-village'])">You think we can go on dates?</button>
+            </div>
+            <div class="invisible">
+                <p>You just met someone new. You don't know what they do for work, but if you had to guess it would be...</p>
+                <button onclick="updatePoints(['þoriv', 'sudasichas', 'femrel', 'salte', 'lowland-wàmèrà'])">Farming</button>
+                <button onclick="updatePoints(['ataglin'])">Fishing</button>
+                <button onclick="updatePoints(['wimþac', 'lèrtsfort', 'lèrtsbon'])">Mining</button>
+                <button onclick="updatePoints(['magþe', 'dyaša', 'zanhhuiltya', 'quərfi'])">Manufacturing</button>
+                <button onclick="updatePoints(['voanter'])">Tourism</button>
+                <button onclick="updatePoints(['onþod', 'halku', 'salgonri', 'upland-wàmèrà'])">The military</button>
+                <button onclick="updatePoints(['glisng', 'agrasichas', 'nālesdawi', 'dese-voldo', 'šalva'])">Managing other people</button>
+                <button onclick="updatePoints(['vlojtum', 'paltlon', 'trèsicha', 'zemhhuno'])">Moving goods around</button>
+                <button onclick="updatePoints(['atšeri'])">Moving goods around (and definitely not stealing those goods)</button>
+                <button onclick="updatePoints(['mangátle'])">Something academic</button>
+                <button onclick="updatePoints(['norbuj'])">Colonising the Northern Lands</button>
+                <button onclick="updatePoints(['valdya'])">Dragon capture</button>
+                <button onclick="updatePoints(['dokagrolis'])">Illegal worship</button>
+                <button onclick="updatePoints(['ongrèstilsa'])">They're unemployed</button>
+                <button onclick="updatePoints(['the-northern-lands', 'tysklø'])">Whatever needs doing</button>
+                <button onclick="updatePoints(['desert-village'])">Exactly what is demanded of their element</button>
+            </div>
+        </div>
+    </body>
+</html>
