@@ -14,6 +14,7 @@
         </style>
     </head>
     <body class="page">
+        <div class="invisible" id="results-explanation">The cities/regions you are closest to are the following:</div>
         <div class="invisible" id="results">
             <div>
                 <label for="glisng">Glisng</label>
@@ -206,7 +207,8 @@
                     document.getElementById('results').appendChild(eles[k]);
                 }
 
-                document.getElementById('results').classList.remove('invisible');
+                document.getElementById('results-explanation').classList.remove('invisible');
+                document.getElementById('results').classList.remove('invisible');                
                 document.getElementById('all-questions').classList.add('invisible');
             }
         </script>
