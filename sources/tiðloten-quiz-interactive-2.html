@@ -162,6 +162,9 @@
         </div>
         <script type="text/javascript">
             let qNum = 0;
+            for (let i in document.getElementsByTagName('meter')) {
+                document.getElementsByTagName('meter')[i].max = 100
+            }
             function updatePoints(cities) {
                 cities.forEach(city => {
                     if (document.getElementById(city).value != null) {
@@ -225,6 +228,61 @@
                 <button onclick="updatePoints(['tysklø', 'halku', 'salgonri'])">Foot</button>
                 <button onclick="updatePoints(['quərfi'])">Flying carpet</button>
                 <button onclick="updatePoints(['sudasichas'])">Giant Flying Lightning Skink (Plusambengli)</button>
+            </div>
+            <div class="invisible">
+                <p>You've been summoned to testify in court. You're going to wear...</p>
+                <button onclick="updatePoints(['glisng', 'vlojtum', 'magþe', 'norbuj', 'paltlon', 'voanter', 'wimþac', 'ataglin', 'agrasichas', 'trèsicha', 'lèrtsfort', 'lèrtsbon'])">A plain black suit or dress</button>
+                <button onclick="updatePoints(['zemhhuno'])">A blue sash</button>
+                <button onclick="updatePoints(['upland-wàmèrà'])">One of my cleaner tan outfits</button>
+                <button onclick="updatePoints(['quərfi'])">Something flowy and bright coloured</button>
+                <button onclick="updatePoints(['onþod', 'halku', 'salgonri'])">My military uniform</button>
+                <button onclick="updatePoints(['nālesdawi', 'dese-voldo'])">A very elaborate outfit I don't have time to describe now</button>
+                <button onclick="updatePoints(['mangátle', 'sudasichas'])">Fuck, I'm supposed to wear something specific?</button>
+                <button onclick="updatePoints(['valdya', 'dyaša', 'zanhhuiltya', 'salte'])">Whatever they dragged me off the street in</button>
+                <button onclick="updatePoints(['femrel'])">Doesn't matter, we're all trying our best</button>
+                <button onclick="updatePoints(['the-northern-lands', 'tysklø'])">Court? What's that?</button>
+                <button onclick="updatePoints(['lowland-wàmèrà'])">More than I normally wear</button>
+                <button onclick="updatePoints(['þoriv', 'dokagrolis', 'ongrèstilsa', 'šalva', 'desert-village', 'atšeri'])">I'm running away</button>
+            </div>
+            <div class="invisible">
+                <p>Thank goodness that's over. Now you're going on a date. For this you're going to wear...</p>
+                <button onclick="updatePoints(['glisng', 'onþod'])">A plain black suit or dress again, but with a colourful accent piece</button>
+                <button onclick="updatePoints(['vlojtum', 'magþe', 'norbuj', 'paltlon', 'voanter', 'þoriv', 'wimþac', 'ataglin'])">My only formal outfit, and that's blue</button>
+                <button onclick="updatePoints(['quərfi'])">Something flowy and bright coloured</button>
+                <button onclick="updatePoints(['agrasichas', 'trèsicha', 'lèrtsfort', 'lèrtsbon', 'sudasichas', 'dokagrolis', 'ongrèstilsa'])">A telofte would be too risky, but it should at least show my element's colour</button>
+                <button onclick="updatePoints(['femrel'])">Something ordinary, like a pair of trousers and shirt</button>
+                <button onclick="updatePoints(['mangátle'])">Something ordinary, like a flowery skirt and a loose fitting shawl</button>
+                <button onclick="updatePoints(['valdya'])">Something that's attractive to humans, not dragons</button>
+                <button onclick="updatePoints(['nālesdawi'])">Something that's attractive to dragons, not humans</button>
+                <button onclick="updatePoints(['zemhhuno'])">A red sash</button>
+                <button onclick="updatePoints(['dyaša', 'zanhhuiltya', 'salte'])">Work clothes, or at least something that doesn't stand out</button>
+                <button onclick="updatePoints(['dese-voldo'])">Doesn't matter, as long as it doesn't look like work clothes</button>
+                <button onclick="updatePoints(['the-northern-lands'])">Something warm</button>
+                <button onclick="updatePoints(['tysklø'])">Something cool</button>
+                <button onclick="updatePoints(['atšeri'])">This nice new outfit I just got. I can assure you I didn't steal it</button>
+                <button onclick="updatePoints(['halku', 'salgonri'])">My military uniform</button>
+                <button onclick="updatePoints(['upland-wàmèrà'])">Riding clothes</button>
+                <button onclick="updatePoints(['lowland-wàmèrà'])">Nothing much</button>
+                <button onclick="updatePoints(['šalva', 'desert-village'])">You think we can go on dates?</button>
+            </div>
+            <div class="invisible">
+                <p>You just met someone new. You don't know what they do for work, but if you had to guess it would be...</p>
+                <button onclick="updatePoints(['þoriv', 'sudasichas', 'femrel', 'salte', 'lowland-wàmèrà'])">Farming</button>
+                <button onclick="updatePoints(['ataglin'])">Fishing</button>
+                <button onclick="updatePoints(['wimþac', 'lèrtsfort', 'lèrtsbon'])">Mining</button>
+                <button onclick="updatePoints(['magþe', 'dyaša', 'zanhhuiltya', 'quərfi'])">Manufacturing</button>
+                <button onclick="updatePoints(['voanter'])">Tourism</button>
+                <button onclick="updatePoints(['onþod', 'halku', 'salgonri', 'upland-wàmèrà'])">The military</button>
+                <button onclick="updatePoints(['glisng', 'agrasichas', 'nālesdawi', 'dese-voldo', 'šalva'])">Managing other people</button>
+                <button onclick="updatePoints(['vlojtum', 'paltlon', 'trèsicha', 'zemhhuno'])">Moving goods around</button>
+                <button onclick="updatePoints(['atšeri'])">Moving goods around (and definitely not stealing those goods)</button>
+                <button onclick="updatePoints(['mangátle'])">Something academic</button>
+                <button onclick="updatePoints(['norbuj'])">Colonising the Northern Lands</button>
+                <button onclick="updatePoints(['valdya'])">Dragon capture</button>
+                <button onclick="updatePoints(['dokagrolis'])">Illegal worship</button>
+                <button onclick="updatePoints(['ongrèstilsa'])">They're unemployed</button>
+                <button onclick="updatePoints(['the-northern-lands', 'tysklø'])">Whatever needs doing</button>
+                <button onclick="updatePoints(['desert-village'])">Exactly what is demanded of their element</button>
             </div>
         </div>
     </body>
