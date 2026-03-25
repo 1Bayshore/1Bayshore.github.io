@@ -1,0 +1,83 @@
+﻿The sun shone down on the mountainside, illuminating the meadow near the base, the forest that rose above it, and the rock outcroppings that dotted the slopes. The sky was nearly clear, with only a few wispy clouds far off in distant regions of the upper atmosphere. In the meadow, bees and butterflies flew between the orange, yellow, and violet flowers, while a few birds flew around the grasses, their striped brown and white bodies appearing and disappearing as they moved from one spot to the next.
+
+Zešemkon slowly walked along a small trail through the meadow, following it upwards towards the forest above. Wearing a grey dress, and carrying a small backpack, but completely barefoot, she smiled as she watched the activity in the meadow. *It's always so nice when the meadow is busy again,* she thought.
+
+A small violet butterfly with white spots on its wings flew towards Zešemkon, and landed on her shoulder. She watched as it slowly probed her skin. "Sorry, little amethyst wing," Zešemkon said. "Na tevlor bajatlap an teðazolát. (transl.: Flowers don't grow on driftwood.) I move around too much to grow a flower for you."
+
+After a moment, the butterfly took flight again, and Zešemkon began to walk slowly up the trail again. The grasses beside the narrow trail brushed against her bare ankles. Zešemkon watched the clump of purple flowers beside the trail. *I wish I could grow a flower in me,* she thought. *I wonder which one I'd plant. Probably one of these violet longpetals. Or maybe I could try a few different ones. Or I could just lay in the meadow for a while and see what seeds blew by.*
+
+Zešemkon continued to climb, as the trail passed along the bushes, vines and ground cover that grew along the edge between the meadow and the forest. She reached down and felt the branching needles of the tili, filling the area with what looked like an endless series of tiny saplings that never grew into trees. *The soft new needles are back,* she thought. *I'm so glad it's spring again.*
+
+After feeling the needles for a bit, she stood up again and began to slowly walk up the trail, as it turned fully into the forest. As she walked along the trail, she kicked against the dead leaves along the ground, sending them flying a little bit with each step. She looked up at the trees. The leaves were beginning to sprout from the maples, while the oaks remained leafless. She looked down at the trail ahead again. *I've almost made it to the second spot,* she thought. *Unless I'm misremembering.*
+
+Zešemkon turned a corner, and looked ahead at the fallen tree that lay as a log along the ground, before rising once more with new growth into the sky. She walked over to it. "I hope you don't mind if I rest along your log," she said. After a moment she sat down on the log section, between a few small saplings growing up from the log.
+
+She sat for a while, looking around. Birds chirped and sang high above in the trees, none within sight. A white squirrel dashed through the woods, circuitously running from tree to tree as it slowly came towards her. She slowly ran her hand back and forth along the broken bark of the log. "You understand me, don't you?" she said. "Dead and decaying, and yet still alive in a way."
+
+A rustling sound came from behind Zešemkon. She looked behind her, and saw a small bear staring at her. She stood up and looked at the bear. "Hi bear," she said. "Sorry to startle you." The bear looked at her for a moment, before trampsing off down the hill.
+
+Zešemkon stood for a moment, watching the bear disappear down the hill. *Maybe I should get going again,* she thought. *I want to make it to the top.*
+
+She stood up and looked back at the tree. "Thank you," she said, before turning back towards the trail and beginning to walk up the hill once more.
+
+As Zešemkon continued to climb the mountain, the trail got steeper. She walked slowly, listening to the birds and searching the trees to see if she could spot any. A crow flew into an oak tree ahead of her. She stopped walking and looked at it. *You don't see crows up here that much,* she thought. 
+
+The crow looked at Zešemkon. It cawed, before flying and landing on her head. It pecked at her hair. She flinched, and the crow took off, and cawed as it flew back to a tree. "Sorry," she said. "You thought I was stationary, didn't you?" The crow cawed again as it took off and flew away into the distance.
+
+Zešemkon started to walk up the hill again. The trail she followed wound its way upwards, settling to a slow rise along a ridge. She looked down through the trees to her right, catching a glimpse of the valley between the mountains, currently far down but rising quickly towards the ridge. As she continued, the sound of rushing water started to fill the air. She smiled and began to walk a bit faster. *The stream sounds very full,* she thought. *I should get plenty of water.*
+
+A small orange and white bird flew into a blisterberry to her right. She slowed down, watching the bird peck at the yellow berries and eat them one by one. "Hello there," she said. "Those berries are tasty, aren't they?"
+
+The bird sang a song, which sounded roughly like "Aihu ahaha aihu ahahi (transl. aa-ee-oo a-a-a aa-ee-oo a-a-ee)." It then flew up to a tree above the bush, before flying off across the valley.
+
+Zešemkon grabbed a few berries from the blisterberry bush herself. *I'm so glad I can eat blisterberries,* she thought. *The living are sure missing out.*
+
+After eating nine blisterberries, she began to walk slowly up the mountain again. *I'll leave the rest for the birds,* she thought. *And any other Šahyalte who come up here. Although I don't think any do. I'm probably the only one in Mangátle.*
+
+The sound of rushing water was getting louder, and they valley had risen almost up to the ridge. Zešemkon spotted the stream, now visible to her right. It was rapidly cascading down the mountainside, tumbling over rocks and down the mountainside. She continued along the trail, slowing down as the stream crossing came into view. She sat down on a large rock at the edge of the stream and took off her backpack, putting it on her lap. She opened it and took out an aluminium container with a hindged lid that was fastened shut, with a slight lip that was also covered, a handle, and a gold plate on the bottom. She unfastened the lid and reached down into the clear water of the stream, filling the container most of the way with water. She then lifted it up again, checking the water level and looking at the small ruby stuck to the bottom of the container on the inside. She then closed the lid and fastened it again, put in back into her backpack, and put her backpack back on.
+
+She sat and watched the stream for a moment. The water made a steady and peaceful sound as it rushed down the hill. She looked down at the small pool where she had scooped the water from. Comparatively still, it seemed empty of fish regardless. An insect ran across the water, crossing back and forth across the ripples remaining from scooping up the water. "I don't see much for you there," she thought. "Good luck finding something to eat."
+
+Zešemkon watched the stream for a while. A couple more insects wandered across the semi-still areas of the water. She still didn't spot any fish. After a bit she stood up and began to walk across the stream, splashing through the water with her bare feet. As she walked out onto the other side, the dirt and leaves along the trail stuck to her feet. She brushed them off slightly against her legs before continuing up the path.
+
+As she continued to ascend, the forest began to change. Oaks and maples gave way to short pines and hemlocks. The trail grew rocky, and bushes with red tinted leaves began to fill the area around the trail. *I still love how quickly the forest changes here,* Zešemkon thought as she stepped around the pointiest rocks on the trail.
+
+She slowed slightly as the trail flattened out. She watched to her right as the sparse trees opened completely, into a rock outcropping that looked down on the valley where the stream ran between the mountains, the meadows down near the base of the mountains, and the city of Mangátle far below, like a little piece of a much larger landscape of farms and forest. The Jaþmanda river wound its way through the landscape, looking far bigger than the city.
+
+Zešemkon sat down on a nearly flat section of rock near the left end of the outcropping. She scanned the bushes to her left for a moment, before picking three leaves that were especially red. She then reached into her backpack and got out a small cloth bag, which was tied shut, and a small circular metal plate with a rim around the edge and a tiny emerald in the centre. She then also got out the metal container that she had put the water in earlier, and set in on a flat area of rock near her. She opened the metal container, ripped the three leaves into small pieces, and dropped the pieces into the water in the container. She then lifted the container and placed the small circular metal plate below it. She glanced in the container, to see a few tiny bubbles rising from the ruby at the bottom to the top. She then relaxed and looked out at the view.
+
+A large bird flew up from the left ridge. It soared over the valley, beating its dark brown wings only occasionally as it drifted up into the sky. *Eagles always look so smooth when they fly like that,* Zešemkon thought.
+
+She looked back at the metal container. The water was boiling vigorously, and steam was rising from it. She opened the cloth bag and carefully removed a thick ceramic mug, which she set on a flat spot of rock. She then lifted the container off the metal plate and gently poured the herbal tea into the mug. She set down the container again, not atop the plate this time, and as the tea ceased bubbling, she picked up the mug and took a small sip, looking back out over the valley.
+
+She continued to watch the eagle as she sipped the tea, looking down at herself occasionally. *I'm starting to get a bit translucent,* she thought. *Hopefully three leaves was enough.*
+
+Around the time Zešemkon had drank half of the tea in the mug, she heard a rustling and thumping sound behind her. She glanced backwards and saw a woman in a dark blue shirt and plants approaching quickly along the trail, headed downhill. She slowed down as she reached the rock outcropping, and stepped outward onto it to Zešemkon's right. She looked out at the view for a moment, before sitting down and looking over at Zešemkon.
+
+"Hello," the woman said.
+
+"Hi," Zešemkon said, looking out at the view.
+
+"It's a beautiful day, isn't it?" the woman said.
+
+"It is," Zešemkon said.
+
+The woman looked out at the view for a while before looking back at Zešemkon. "Are you okay?" she asked. "You look pretty scraped up. And you're extremely pale."
+
+"I'm dead," Zešemkon said, still looking out at the view.
+
+The woman stared at Zešemkon for a moment, not saying anything. Eventually she said, "How are you talking to me if you're dead?"
+
+"Normally," Zešemkon said.
+
+"But doesn't being dead mean you can't do anything anymore?" the woman.
+
+"I do lots of things," Zešemkon said.
+
+"Okay," the woman said. After a moment she added, "I'm sorry you died."
+
+"It's okay," Zešemkon said. "Life is so much better when you're undead."
+
+The woman stood up. "I'm heading onwards," she said. "Have a good day." She started walking quickly down the trail.
+
+Zešemkon smiled as she looked out at the eagle. It was still soaring, and had been joined by another one, as they sailed over the valley. She looked down at her body. *I love how translucent I am,* she thought. *My skin really does look patchy.* She looked out at the view once more.
