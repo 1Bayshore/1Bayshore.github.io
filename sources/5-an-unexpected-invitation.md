@@ -1,0 +1,99 @@
+Zešemkon, wearing a grey dress as per usual, sat on a mattress on the floor of a room with a low and heavily slanted ceiling. The mattress had a white sheet on it, stained with red spots in several places, and a grey duvet that was crumbled in one corner of the bed. The room was otherwise empty, save for piles and piles of books stacked very neatly across the floor, a single grey dress strewn on the floor along with a piece of underwear, and a small backpack in one corner. Two small windows looked out the slanted walls, giving a view out to the city and the night sky. There was a trapdoor in one corner the floor, locked shut with a sliding bolt.
+
+Zešemkon looked through her backpack. She took out the tea kettle and the plate with the emerald and the bag with the mug, checking to make sure that the bag with leaves was still in there. She quickly counted the coins in the bottom of the bag, then threw in her extra grey dress, and four books, struggling to fit them in. She then closed the backpack and carried it over to near the trapdoor. She put her ear to the trapdoor, and listened for a second, making sure it was quiet. She then slid on the backpack, and unlatched and opened the trapdoor.
+
+She climbed down the steep staircase into a hallway with doors on both sides. She walked quietly to the other end of the hallway, where she climbed down the steep staircase to the living room with the very long sofa. She turned back towards the kitchen, and walked over to the refridgerator, where she carefully tore off a piece of the grocery list and set it on the table. She took the pen atop the fridge and wrote on the torn piece of paper: "I'm staying at a friend's place. I'll come back when grandparents leave." She then left it and the pen on the table, walked back through the living room, slowly and quietly unlocked and opened the front door, stepped out, and slowly and quietly closed and locked it. She then stepped down the stairs onto the street, and began walking down the empty street lit by dim glowing rubies placed on the sides of the buildings.
+
+Zešemkon turned right at the next intersection, and walked along the other empty street until she reached the point where a tram track turned onto the street. She stepped along the pavement slightly, stopping and looking down the track for a tram. None were in sight, so she waited.
+
+And waited. And waited.
+
+*Maybe they're done running for the night,* she thought. *Should I start walking?*
+
+She stared around at the dim ruby lights, and up at the night sky. It was a mostly clear night, and many stars were visisble. A small grey cloud was in the sky as well.
+
+A rumbling and scraping sound became audible. She looked back down to see the tram approaching, its front light brightly illuminated. It slowed to a stop near her, and opened its doors. She stepped onboard and paid her 10 titoþa before moving into the seating area.
+
+The tram was almost completely empty, save for someone sleeping in a seat at the very back. Zešemkon took a seat close to the front. As the tram started forward, she scanned the adverts above the seat. It was too dark to read many of them, but she managed to make out a few. "Hello Mangátle!" read one advert with dark red text on a grey background. "Šaša wine now available at ÑAV stores. Fole Enkan's favourite wine." A picture of a mostly empty glass of red wine was to the right of the words.
+
+Another advert, blue with white text, said "Squeak of dragons soap. For the stench that just won't leave." Zešemkon chuckled slightly. *Dragons don't squeak,* she thought. *And I like how I smell. Even if it bothers other people sometimes.*
+
+Her eyes moved over to another advert, this one with a steaming bowl of soup. It read "Orasleda: Not just plates. Are va ðadelañate epsante. (transl. Ask for flavour.)"
+
+*Their adverts are still on every tram,* Zešemkon thought.
+
+She tried to read the adverts further back, but it was too dark. She turned her gaze to the window, watching the tram slowly pass quiet terraced houses, through the sqaure outside the grocery where she worked, along the side of Lagan ad lacalcí (transl. Wall Street) that faced the walls of back gardens, Latoron vej ad Mangátle (transl. Old Mangátle station) where terminating trains to Glisng still left from, over Laseñata ad lolovgri (transl. Castle Bridge) with a view of the Jaþmanda river as it quietly but steadily flowed northwards, and around the bend towards Juþea's flat. Zešemkon pulled the cord above the window, ringing the bell near the front of the tram. After a moment it slowed to a stop. Zešemkon stood up and walked back to the door, stepping down from the tram onto the street in front of the building where Juþea's flat was.
+
+Zešemkon walked up to the door of the block of flats. She opened the pine green door and stepped into the entryway. She looked around. The interior of the building was lit with dim light. A hallway stretched to her left and right, while a staircase in front of her led up, wrapping around a lift in a wire cage in the middle. Zešemkon walked over to the staircase, and walked up. The stone stairs echoed slightly with each step of her bare feet. She continued to ascend the stairs until she reached the first storey, where she walked over to the hallway. She turned left and walked slowly down the hallway, reading the numbers on the off-white doors to her left. *111. 113. 115. 117.* She stopped in front of the door labelled 117 and knocked softly on the door.
+
+After a moment of silence, she heard muffled footsteps coming from behind the door. The door opened, and Juþea stood there, wearing a soft pink nightdress. "Hi," she said quietly. "Are you okay?"
+
+"No," Zešemkon said. "Can I stay with you until lograda?"
+
+"I'm sorry you're not doing okay," Juþea said. "You can stay with me, although there's a complication starting tomorrow."
+
+"Okay," Zešemkon said. "Sorry if I'm complicating things."
+
+"You're my best friend," Juþea said. "I'm glad if I can be here for you. And the complication might be a good thing. Come in and I can explain."
+
+"Thanks," Zešemkon said. She stepped into the flat. Juþea then closed and locked the door again.
+
+The interior of the flat was messy. A bed with white sheets and an orange duvet filled the right side of the flat. It was covered in clothes and had a backpack sitting on one end. A small kitchen area with a stove, an oven, and a refridgerator, all black, and a metal sink were on the left side. A small black table and bookshelf full of disorganised books and other items was straight ahead, underneath a large window that looked out on the Jaþmanda river. A small washroom with its door ajar was immediately to the right.
+
+"So," Juþea said, "I can explain the complication, but first, is there anything I can do for you?"
+
+"Could you give me a hug?" Zešemkon asked.
+
+"Of course," Juþea said. She leaned over slightly and wrapped her arms around Zešemkon. Zešemkon did the same to Juþea, beginning to smile a bit as she looked up at her. Juþea began to smile as well.
+
+"Thanks," Zešemkon said after a long hug. "You really are my best friend."
+
+"Thanks," Juþea said. "So, do you want me to explain the complication now?"
+
+"Yes please," Zešemkon said.
+
+"So," Juþea said, "my parents being my parents, they decided this morning that they wanted to take a family trip to Dyaša tomorrow through lograda."
+
+"Why do your parents never plan things in advance?" Zešemkon said.
+
+"I have no idea," Juþea said. "Anyway, so that means that I'm leaving tomorrow around midday to meet them in Glisng and start the train journey west. Which means that you can't stay in my apartment from tomorrow evening to lograda, because I won't be here. *However*, my parents have repeatedly offered that I can bring a friend along on trips with them, including this one. So if you wanted, you could come along, and you would be gone until lograda. And you'd get to visit Dyaša with me."
+
+"Going to Dyaša sounds fun," Zešemkon said. "But are your parents okay with me?"
+
+"They mentioned you specifically when offering that I could bring a friend," Juþea said.
+
+"Do they know I'm undead?" Zešemkon asked.
+
+"No," Juþea said, "but they're kind people, and they know a bit about you, and have said they think you're a nice person. I don't think that would change if they find out you're undead."
+
+"That's good," Zešemkon said. "Are your brothers coming?"
+
+"Yes," Juþea said. "And they're kind people too, although they'll probably spend most of their time chatting with each other."
+
+"Okay," Zešemkon said. "Do they expect me to pay for the trip?"
+
+"Definitely not," Juþea said. "They promised they'd pay for everything extra it would cost to bring a friend along."
+
+"That's good," Zešemkon said. She thought for a moment. "Do you think I should come?"
+
+"It's up to you," Juþea said, "but I think you would enjoy it. My parents are kind people, you'd get to visit Dyaša, we would get to spend a lot of time together, and you would be far away from problems here for a while. The only downsides I see are that my parents tend to make plans very last-minute, and sometimes go places that are a bit more upscale than either of us like. But we don't have to do the same things as them constantly. We could do things on our own, or just the two of us."
+
+"Okay," Zešemkon said. She thought for a moment. "Will your parents understand if I'm nervous?"
+
+"They certainly will," Juþea said. "And they'll understand if you need time alone, or with just me."
+
+"That's good," Zešemkon said. She thought for a moment. "Can I come?" she asked.
+
+"Of course," Juþea said, smiling. "I'd love to have you come."
+
+"I'd love to go to Dyaša with you," Zešemkon said, smiling.
+
+"That's wonderful," Juþea said. "Can I give you another hug?"
+
+"Yes please," Zešemkon said. She wrapped her arms around Juþea again, and Juþea did the same. After a bit they both let go.
+
+"I still need to finish packing," Juþea said.
+
+"Can I help?" Zešemkon said.
+
+"Of course," Juþea said. "Thanks so much."
