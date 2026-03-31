@@ -1,0 +1,333 @@
+﻿The train sped along past the freshly tilled fields and past sprouting crops. Zešemkon could see the increasingly muddy Jaþmanda river was visible out the window to her right, the water drifting north much slower than the train. She was running her left hand back and forth on her dress again. Juþea, sitting to Zešemkon's left on the orange fabric seat, had crossed her legs, and was shaking her right foot. She took a deep breath and looked towards Zešemkon.
+
+"Zešemkon," she said, "there's something I've been meaning to tell you."
+
+"Okay," Zešemkon said, looking over at Juþea.
+
+"So," Juþea said, "do you know who my family is?"
+
+"I think so," Zešemkon said. "Your mum Þana, your mum Atleva, your brother Clisuðe, your brother Plosuna."
+
+Juþea smiled slightly for a moment. "Amazing job remembering their names," she said, "but that's not what I meant. Do you know who we're related to?"
+
+Zešemkon looked confused. "No," she said.
+
+Juþea took another deep breath. "What I'm trying to say is, that I'm... I'm..., that my mum Þana is an Adnorbuj, and that techincally makes me one too, even though I don't like it." she said.
+
+"Okay," Zešemkon said. "I'm sorry."
+
+"Thanks," Juþea said. "It's just hard - my immediate family is nice, like I said, but they're not great at spending in moderation, and then my mum Þana's parents and her brothers are absolutely awful, and everybody in Vlojtum hates me because of them."
+
+"I'm sorry," Zešemkon said. "It's not the same, but my grandparents are awful too."
+
+Juþea smiled. "I knew you'd be understanding," she said. "I'm sorry I didn't tell you earlier, I was just really scared to tell anyone in Mangátle because people there don't know I'm related to the Adnorbuj family and are nice to me. And then I wanted to tell you but I was scared you'd be upset I didn't tell you earlier."
+
+"I mean," Zešemkon said, "you did tell me most of it earlier. You told me your parents had quite a bit of money, and that your grandparents were awful, and that everyone in Vlojtum hated you."
+
+"Thanks," Juþea said. "The good news is that nobody in Fole Enkan should know who my parents are, so their last-minute planning should be a bigger difficulty than my grandparents."
+
+"That's good," Zešemkon said. "Have they planned anything yet?"
+
+"They told me we would be staying at the Katyu Hotel," Juþea said. "That's all I know."
+
+"That's good," Zešemkon said. "What's the hotel like?"
+
+"I don't know," Juþea said. "I think it's very big. It is Dyaša, after all."
+
+"That makes sense," Zešemkon said. "Is there anything you want to do in Dyaša?"
+
+"Tour the metro," Juþea said. "Especially the 1 line, of course."
+
+"Makes sense," Zešemkon said.
+
+"You know me," Juþea said. "I'd also like to see the Katyu Palace, and walk on top of the East Wall. How about you?"
+
+"I don't know," Zešemkon said. "Maybe drink some tea and see the river. Spend time with you."
+
+"Sounds good to me," Juþea said. She smiled. "It's so fun to have you come with me on this trip."
+
+"I'm having fun already," Zešemkon said.
+
+The farmland outside the window began to be dotted with clusters of houses and buildings. The river had disappeared from view. A clicking sound came from the speaker system, followed by an announcement. "Next station Glisng Central. This train terminates at Glisng Central. Next station Glisng Central." Another click ended the announcement.
+
+As the clusters of buildings outside the window grew more frequent and larger, the other passengers on the train slowly began to gather their bags from the rack above the seats. Juþea stood up and got down her backpack and Zešemkon's backpack, handing it to Zešemkon. The train flew past a small station, then past a slower southbound train to the right. The buildings near the tracks became constant and tall enough that the roofs were no longer visible through the window. The squealing of brakes began to reverberate throughout the carriage.
+
+The train passed through another small station. The buildings were tall enough now to cast a shadow on the tracks, creating a feeling of a tunnel for a moment before the train passed into an actual tunnel. The sound of the brakes echoed throughout the tunnel. The view from the windows became darkness, before suddenly the darkness gave way to the interior of a massive railway station. Zešemkon got a glance of a wall lined with mulicoloured rubies and carved stone sculptures before the view was blocked by an electrogem locomotive and a row of green carriages stopped on the track to the right. The train continued to slow, until it finally came to a stop.
+
+Juþea stood up, as did Zešemkon, slowly joining the queue of people waiting to exit the train. After a moment the queue began to move, and Juþea and Zešemkon made their way out of the carriage and onto the platform. They walked a few steps along the platform under the large glass roof high above them, before stopping. Juþea glanced around the station, with hundreds of people waiting on the platforms, crossing the large walkways above the tracks on either end of the station, boarding and alighting from orange and green trains, and entering and exiting to the ticketing area below the massive flipboard sign listing trains, platforms, and times. She then looked back at Zešemkon.
+
+"Where are we meeting your parents?" Zešemkon asked in a quiet voice. She began fidgeting with her dress again.
+
+"That's what I'm trying to figure out," Juþea said. "All they told me is that they'd join us on the 7.5 train to Agrasichas."
+
+Zešemkon looked at the flipboard sign. "The train to Agrasichas is on track 1," she said. "Maybe we go there?"
+
+"I don't have any better ideas," Juþea said. "Let's go there." She and Zešemkon started walking towards the stairs up to the walkway over the platforms, weaving their way around people waiting on the platform. Zešemkon moved from fidgeting with her dress to running her fingers back and forth along her hands as she walked.
+
+"Juþea," Zešemkon said, "are your parents okay with me not looking at them while talking?"
+
+"I'm sure," Juþea said. The two of them reached the stairs and began to ascend them, staying close to the left railing. "And they'll understand if you're nervous talking to them at first."
+
+"That's good," Zešemkon said. They reached the top of the stairs and turned left to walk along the walkway.
+
+Juþea looked down at the platform for track 1. "You were right," she said. "I see my family on the platform."
+
+"Thanks," Zešemkon said, smiling a little.
+
+They descended the stairs down to the platform. Zešemkon looked ahead as Juþea waved. Two women wearing matching shiny red-orange dresses that looked as if they were made of Quərfi silk waved back. Next to them there were two men in simple plain blue outfits, talking to each other very fast, and a pile of luggage containing four suitcases and a trunk. As they approached, Zešemkon looked down at the ground. Juþea walked up to the two women, and Zešemkon followed behind her.
+
+"Hi Juþea!" one of the women exclaimed. "It's so good to see you!"
+
+"Hi mum Atleva!" Juþea said. "It's good to see you too!" She held out her arms and they hugged very briefly.
+
+"Hi Juþea!" the other woman said.
+
+"Hi mum Þana," Juþea said. They also hugged very briefly.
+
+"Is this your friend Zesemkon?" Atleva said, looking at Zešemkon, who glanced up but then continued to stare at the platform.
+
+"Yes, this is her," Juþea said.
+
+"Hi Ze- sorry, how do you say your name?" Atleva asked.
+
+"Zešemkon," Zešemkon mumbled.
+
+"Hi Zesemkon," Atleva said. "Sorry, I'll work on my pronounciation. It's nice to meet you."
+
+"Nice to meet you too," Zešemkon said quietly, without looking up. She began to fidget with her dress again.
+
+After a moment, Atleva turned to the two guys who were still engaged in rapid-fire conversation. "Clisuðe, Plosuna, Juþea and Zesemkon are here."
+
+The two of them stopped and turned towards Juþea and Zešemkon. "Hi Juþea," the said, almost in unison. "Hi Zesemkon."
+
+"How are you doing?" one of them asked Juþea.
+
+"I'm doing good!" Juþea said. "Me and Zešemkon had a nice and uneventful trip up here. How about you?"
+
+"I'm doing well," one of Juþea's brothers said, Zešemkon still wasn't quite sure who was which. "I got a new camera that I'm excited to use on the trip."
+
+"Nice!" Juþea said.
+
+A voice crackled through the station. "Outbound Vegre e vata remta to Agrasichas is now arriving on track 1. Please stand back until the train is stopped. Thank you."
+
+Juþea looked eagerly down the track, smiling. Zešemkon looked at Juþea, smiling. After a moment, a smooth-fronted silver electrogematic locomotive pulled into the station, with several silver carriages behind it. An orange stripe and a green stripe was the only paint visible, except for "Tevaðon Adcovtle" in green on the locomotive.
+
+"It's one of the new atlið trains!" Juþea said excitedly. "I've never been on one before!"
+
+"Nice," Zešemkon said. "Do you know anything about them?"
+
+Juþea looked excitedly at Zešemkon. "They're a new type of construction," she said, "which is lighter weight, so they can go faster with the same amount of energy, and start and stop faster as well. And the seats are reversible, so they can face forward without turning the train, or face each other. And then they're the first Adcovtle rolling stock to use Enkan couplers, which let the carriages be coupled by simply pushing the carriages into each other rather than having to manually attach the chain to each one. Although the front carriage still has a chain coupler for compatibility."
+
+"How do you know this much already?" Þana asked.
+
+"It was covered in the Tevaðon Adcovtle magazine last month," Juþea said.
+
+"I see," Þana said.
+
+The conductor finished walking the length of train and opened the last door on the back car. People began to exit the train, while a queue began to form some distance back on the platform from each door. Juþea and Zešemkon stepped into the queue for the back door of the second-to-last carriage, while Atleva, Þana, Clisuðe, and Plosuna just kind of wandered towards the door and stood to the side of it. Once the passengers had finished exiting the train, the people in the queue began to board the train. Atleva, Þana, Clisuðe, and Plosuna tried a few times to sneak into the queue, but ended up stuck until Juþea let them in front of her and Zešemkon. All of them then stepped up into the carriage.
+
+The interior of the carriage was filled with spacious dark green felt seats, with orange accents and divets on the large barrier between the seat and the walkway, and similar ones up against the wall below the windows. The lighting was dim, and tinted red by the four sculpted glowing rubies along the ceiling. The windows were very large for a train, and provided far more light than the rubies in the ceiling. Zešemkon lifted her backpack to put it on the rack above the seats, only to discover that there wasn't one. She looked at Juþea, who was still wearing her backpack, and noticed that Juþea's family wasn't carrying any of the luggage that they had been standing besides.
+
+"Juþea," Zešemkon said quietly, "where do we put our bags?"
+
+"At your feet," Juþea said, "at least, if you want to keep it with you."
+
+"Thanks," Zešemkon said. "Why are there no racks in this new train?"
+
+"It's first class," Juþea said. "Most people get the porters to handle the luggage. There are racks in the second class carriages, and they're actually 2 calej wide, which seems so big it might get in the way. I want to go walk down there and check at some point."
+
+"Oh," Zešemkon said. She sat down in a chair beside the window, clutching her backpack to her chest, and looked out the window. Porters were in fact loading the pile of luggage that Juþea's family had been standing beside. Juþea sat down next to Zešemkon.
+
+"Zesemkon," said one of Juþea's mums, Zešemkon had lost track of which, "are you originally from Mangátle, or did you grow up somewhere else?"
+
+"Yes," Zešemkon mumbled, continuing to stare out the window.
+
+"Do you like it there?" the woman asked.
+
+"I like the mountains," Zešemkon said.
+
+"They are pretty, aren't they?" the woman said. "Although I love the dramatic nature of the Wiþi mountains more. Have you been there?"
+
+"Once," Zešemkon said.
+
+"Okay," the woman said. She turned to the other mum and started talking with her. Zešemkon continued to stare at the window.
+
+The conductor began to run down the length of the train, closing the doors one by one. Soon the two gong whistles came and the train lurched and began to move forward. As the train accelerated out of the station, the light of the massive station hall gave way to the darkness of the tunnel. The train rumbled along through the tunnel, the click-clack of the rails becoming faster even as the view remained dark. Then, in a sudden burst of light, the train emerged from the tunnel, rising onto a gently curving track alongside a river, with large spacious houses visible across the wide water, and occasional islands dotting the river, frequently with spacious houses of their own. Zešemkon peered at the carefully manicured trees, looking for birds, insects, anything not so artificial. She didn't see anything, and looked down at the river. The muddy waters were impossible to see through, and all Zešemkon saw was a dead fish floating along the top of the river.
+
+*I'm not the only dead thing being moved around,* she thought, smiling slightly.
+
+"Would you like a drink?" a voice said from Zešemkon's right. She glanced over to see a man wearing entirely black looking at her. She looked back at the window.
+
+"Do you have tea?" she asked.
+
+"My apologies," the man said. "We only have red wine and white wine. There is tea in the restaurant carriage, which is towards the locomotive."
+
+"Thanks," Zešemkon said.
+
+"My pleasure," the man said. He then looked at Juþea. "Would you like a drink?" he asked.
+
+"No, thank you," Juþea said. The man turned to address the passengers across the walkway.
+
+Juþea turned towards Zešemkon. "Do you want to walk to the restaurant carriage to get some tea?" she asked.
+
+Zešemkon smiled. "Yes please," she said.
+
+Juþea stood up, slid her backpack back on, and stepped into the walkway. Zešemkon then did the same. The man serving wine stepped aside to let the two of them pass as they walked down the walkway towards the end of the carriage. They passed a door that was slightly ajar, with a white sink visible inside the small room. Juþea the opened the door, holding it for Zešemkon, who stepped through and closed it behind her. The two of them crossed carefully through the vestibule as it shifted around a bit, before passing through another door and into the next carriage.
+
+The carriage that Juþea and Zešemkon now stepped into was brighter than the previous one. Several red-orange seats facing heavily varnished wooden tables filled the first portion, followed by a cooridoor along the right edge of the carriage that disappeared into the distance and a door held open with a chain on the left side of the carriage that opened into a kitchen space. A few of the red-orange seats had people sitting at them, although none of them had food. Juþea looked around at the empty tables.
+
+"Do you have a favourite?" she asked Zešemkon.
+
+"This one," Zešemkon said, walking over to the first table on the right. "Is that okay?"
+
+"Of course," Juþea said. Zešemkon sat down on the seat, and Juþea sat down opposite her.
+
+"Are you enjoying this train so far?" Zešemkon said.
+
+A woman came out from the kitchen and walked over to Zešemkon and Juþea. "I'm sorry," she said, "we're not serving any food until 8."
+
+"Do you have tea?" Zešemkon asked quietly while looking out the window.
+
+"Unfortunately we're out right now," the woman said. "We'll get more at Ðestli, and be able to serve it along with dinner at 8."
+
+"Okay," Zešemkon said. "Thanks."
+
+"You're welcome," the woman said, before hurrying off back to the kitchen.
+
+"That's a shame," Juþea said.
+
+"It's okay," Zešemkon said. "I'll get tea later."
+
+"By the way," Juþea said, "on the subject of this train: would you mind if we went to look at the second class carriage since we're already here?"
+
+"That would be fun," Zešemkon said.
+
+Juþea smiled, and stood up from the seat. "Thanks for coming along," she said.
+
+"I enjoy spending time with you," Zešemkon said, standing up herself.
+
+Juþea and Zešemkon walked along the cooridoor as it passed around the kitchen. The train rattled slightly as another train passed on the track to the right. Juþea watched intently out the window. "It's a mixed goods train," she said. "A lot of grain, I think. And some wood." The guard's van passed, and the other train was out of sight. They began walking again towards the end of the carriage.
+
+"Why does so much grain come from Grèsent?" Zešemkon asked.
+
+"I honestly don't know," Juþea said. "But it definitely seems like all the bread in Covtle is baked from Grèsetilsan grain."
+
+"Except rice bread," Zešemkon said.
+
+"True," Juþea said. "That all seems to come from Wàmèrà."
+
+They reached the door to the vestibule, and stepped through, crossing into the next carriage. The interior of the carriage looked a bit different. The seats, while spacious, were a bit smaller, and fully green without any accents. There was, in fact, a large luggage rack above the seats on each side. A number of seats were open. Juþea looked over the luggage racks, puzzled.
+
+"These can't be 2 calej wide," she said. "Don't they look closer to 1.5 calej?"
+
+"Definitely," Zešemkon said. She sat down in an open seat next to the window and looked out at the lanscape of farmland that stretched on as far as the eye could see.
+
+"Are you ready to head back?" Juþea asked.
+
+"Can we stay here?" Zešemkon asked.
+
+"I'd like to head back," Juþea said. "Besides, we don't have a ticket for this carriage."
+
+"Why do you want to be in first class?" Zešemkon asked. "This is so much less stressful."
+
+"You think I want to be in first class?" Juþea said, raising her voice slightly.
+
+"I'm sorry," Zešemkon said, staring down at the floor.
+
+"I don't want to be in first class," Juþea said. "It makes me uncomfortable too. But my parents aren't willing to buy second class tickets, so I have to choose between being uncomfortable but getting to spend time with them or being more comfortable but not ever seeing them."
+
+"I'm sorry," Zešemkon said again.
+
+"It's okay," Juþea said. "I'll make sure the two of us have time to do normal things when we're in Dyaša."
+
+"Thanks," Zešemkon said. She looked up at Juþea again.
+
+"Is it okay if we head back now?" Juþea asked.
+
+"I'd like to stay here for a little longer," Zešemkon said. "I'll head back soon."
+
+"I'm sorry," Juþea said. "I'll see you soon."
+
+"I'll see you soon," Zešemkon said. Juþea turned and began walking quickly back through the carriages.
+
+As Juþea walked back down the train, tears began to well up in her eyes. A few ran down her cheeks as she hurriedly crossed along the cooridoor, through the restaurant carriage, and bursting through the door into the first class carriage. She stormed down the walkway and sat down in her seat again.
+
+"Hello again," Þana said. "We were thinking about playing Tjunesul." She looked back at Juþea. "Where's Zesemkon?"
+
+"She's sitting in the second class carriage for a moment," Juþea said. "Having to travel in first class in making her uncomfortable."
+
+"She didn't have to travel in first class," Þana said. "She could have stayed home."
+
+"Actually, no she couldn't," Juþea said, raising her voice slightly. "She came over to my flat because her nasty grandparents were visiting her family and treating her like a pile of bricks, and she needed a safe place to stay. And so when I told her that I was leaving on a holiday trip to Dyaša with extremely short notice, she said she'd be happy to come because she likes exploring new places and spending time with me. She didn't judge you for being Adnorbuj, or being rich, but when you keep flaunting your wealth like this-"
+
+"Juþea," Þana said, "you know that's not fair. As I've told you before, we are not obligated to sacrifice our comfort and choice of service class just because someone objects to us spending money. Nor are we obligated to help Zesemkon just because we made a generous offer to let her join our holiday. Holding this against us is unfair and-"
+
+"You're not obligated to buy second class tickets," Juþea said, "but that doesn't mean your actions don't have consequences."
+
+"If bringing your friend is going to start acting like this again," Alteva said, "maybe she should stay home next time."
+
+"I'll stay home with her," Juþea said. She looked over out the window, watching the endless farm fields passing by. She pondered what the various fields were growing, finding that she didn't know almost any of them. She felt herself longing for the climb up Mount Þianú she and Zešemkon had done two days ago.
+
+Suddenly, she heard the sound of the door into the carriage opening. She looked over there to see Zešemkon walking into the carriage again. She walked over to where Juþea was sitting, and smiled slightly.
+
+"Did you get a bit of a break?" Juþea asked Zešemkon.
+
+"I did," Zešemkon said.
+
+"Do you want to play Tjunesul?" Juþea asked.
+
+"I'm really bad at it," Zešemkon said. "Is that okay?"
+
+"I'm terrible at it," Juþea asked. They both chuckled slightly.
+
+"Here's a board and set," Þana said, handing Juþea a folded board that also served as a box.
+
+Juþea set the board box on her lap and opened it. She began to take out the red and white pieces, before looking around and eventually setting them in the divet next to the window. "I'm not sure where we're going to put the board," she said to Zešemkon.
+
+Zešemkon shifted over a bit away from Juþea, and set her backpack down at her feet. "Maybe between us on the seat?" she said.
+
+Juþea shifted over a bit herself. "That should work!" she said. She took the remaining pieces out, fitting some in the divet and awkwardly trying to hold the remainder in her hand as she flipped over the board to the play side. A white subject piece slipped out of her hand and fell on the floor. She carefully began to set the other pieces down on the board. Zešemkon climbed down to the floor, poking around for a moment before spotting the subject piece underneath Juþea's seat, between several metal mechanical pieces of the seat. She reached under the seat and grabbed the piece, scraping her left arm slightly as she pulled it out from under the seat. She climbed back up and put the piece on the board.
+
+"Thanks," Juþea said.
+
+"You're welcome," Zešemkon said. "It was fun - I got to see the pieces supporting the chair."
+
+"Cool!" Juþea said, immediately climbing down onto the floor herself. Zešemkon giggled slightly, and Juþea followed, until they were both laughing hard. Juþea got up from the floor and sat back in her seat, still laughing.
+
+"I have so much sinaðcile (transl. extreme/childlike curiosity)," Juþea said, between laughing.
+
+"Me too," Zešemkon said.
+
+A man sitting across the walkway from them closed the book he was reading, keeping his page with his finger, and looked over at Zešemkon and Juþea. "Could you two please quiet down?" he said.
+
+"Sorry," Zešemkon said, without looking away from Juþea.
+
+"Sorry," Juþea said, shortening her vowels and whispering her ws again. "I didn't mean to interrupt your reading of 'The secret treaties: How Queen Alastí gave labour unions and panmagical fusionists secret control of Covtle'." Zešemkon tried to suppress another bout of laughter.
+
+"Juþea," Atleva said, glaring at her.
+
+"Sorry, mum Atleva," she said. She turned back towards the Tjunesul board. "Do you want to be red or white?" she asked Zešemkon quietly.
+
+A drop of blood fell from Zešemkon's left arm onto the board. She swiped it up with her right finger. "Red, I think," she said.
+
+"Perfect," Juþea said. She started placing the white subject pieces on every alternating square of the second row ahead of her side. Zešemkon took the subject pieces and started to do the same, before asking, "Do I put these on the same columns as you or the opposite ones?"
+
+"The same," Juþea said.
+
+"Thanks," Zešemkon said. She placed the red subject pieces similarly to Juþea.
+
+"Great!" Juþea said. "Now, red always goes first, so your turn."
+
+Zešemkon picked up a piece and began to put it down in the row closest to her, before saying, "Sorry, is this a lecja or a soldier?"
+
+"That's a soldier," Juþea said. "Lecjas have a triangular base."
+
+"Thanks," Zešemkon said. She set aside the soldier piece and put down a lecja piece instead.
+
+Juþea pondered the board for a moment, before putting down a lecja piece herself. Zešemkon looked through her pieces and put down a tuhadje piece. Juþea immediately put down a tuhadje piece herself.
+
+"Why are you copying me?" Zešemkon asked.
+
+"Why not?" Juþea said.
+
+Zešemkon smiled, and moved her tuhadje piece. Juþea then placed another lecja piece. "Good," Zešemkon said. Juþea smiled and they both laughed. Zešemkon then placed a soldier piece and the game continued.
